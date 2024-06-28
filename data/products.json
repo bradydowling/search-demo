@@ -508,5 +508,1365 @@
       "image": "",
       "link": "https://www.costco.com/ritz-bits-cracker-sandwiches%2c-cheese%2c-1.5-oz%2c-30-count.product.100620140.html"
     }
+  ],
+  "https://www.costco.com/snacks.html?currentPage=4": [
+    {
+      "title": "Planters, Cashew & Peanut, Variety Pack, 24-count",
+      "price": "$12.99",
+      "details": "\n\t\t\n\t\t\tAn easy snack with no cholesterol\n\t\t\n\t\t\t\n0g Trans Fat\n\t\t\n\t\t\t\nVariety Pack\n\t\t\n\t\t\t\n24-count\n\t\t\n\t\t\t\nNet Weight 2 lb\n\t\t\n\t",
+      "image": "https://cdn.bfldr.com/U447IH35/as/htm5x3mt6f2psmqr2vsjxbz/664570-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+      "link": "https://www.costco.com/planters%2c-cashew-%2526-peanut%2c-variety-pack%2c-24-count.product.100170643.html"
+    },
+    {
+      "title": "Kirkland Signature Extra Fancy Mixed Nuts, Unsalted, 2.5 lbs",
+      "price": "$14.99",
+      "details": "\n\t\t\n\t\t\tA Mix of Cashews, Almonds, Pistachios and Pecans\n\t\t\n\t\t\tResealable Pouch for Freshness\n\t\t\n\t",
+      "image": "https://cdn.bfldr.com/U447IH35/as/6f38jnk56s6wrs6pvhfngz27/1652577-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+      "link": "https://www.costco.com/kirkland-signature-extra-fancy-mixed-nuts%2c-unsalted%2c-2.5-lbs.product.4000042930.html"
+    },
+    {
+      "title": "Nabisco Cookies & Crackers, Variety Pack, 1 oz, 40-count",
+      "price": "$14.99",
+      "details": "\n\t\t\n\t\t\t40 count\n\t\t\n\t\t\t\n1 oz bags\n\t\t\n\t\t\t\nTotal Net Weight 40 oz\n\t\t\n\t\t\t\nLabeled for Resale\n\t\t\n\t",
+      "image": "https://cdn.bfldr.com/U447IH35/as/kts6vwtp67rhcp3htrbfk9tk/1816483-inc__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+      "link": "https://www.costco.com/nabisco-cookies-%2526-crackers%2c-variety-pack%2c-1-oz%2c-40-count.product.4000252966.html"
+    },
+    {
+      "title": "Kirkland Signature Extra Fancy Mixed Nuts, Salted, 2.5 lbs",
+      "price": "$14.99",
+      "details": "\n\t\t\n\t\t\tA Mix of Cashews, Almonds, Pecans, Brazil Nuts and Macadamia Nuts\n\t\t\n\t\t\tResealable Pouch for Freshness\n\t\t\n\t",
+      "image": "https://cdn.bfldr.com/U447IH35/as/twc8vtk76s34vth83ckj5g/1645578-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+      "link": "https://www.costco.com/kirkland-signature-extra-fancy-mixed-nuts%2c-salted%2c-2.5-lbs.product.4000042734.html"
+    },
+    {
+      "title": "Kirkland Signature Supreme Whole Almonds, 3 lbs",
+      "price": "$11.99",
+      "details": "\n\t\t\n\t\t\tSteam Pasteurized\n\t\t\n\t\t\t\nSupreme Whole\n\t\t\n\t\t\t\n3 lb Bag\n\t\t\n\t\t\t\nUS #1\n\t\t\n\t",
+      "image": "https://cdn.bfldr.com/U447IH35/as/7c3hh5bfm463gst8vvwrbwb/284601-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+      "link": "https://www.costco.com/kirkland-signature-supreme-whole-almonds%2c-3-lbs.product.100115268.html"
+    },
+    {
+      "title": "Quaker Chewy Granola Bars, Variety Pack, 0.84 oz, 60-count",
+      "price": "$11.99",
+      "details": "\n\t\t\n\t\t\t30 Chocolate Chip\n\t\t\n\t\t\t\n30 Peanut Butter Chocolate Chip\n\t\t\n\t\t\t\n100 Calories Per Bar\n\t\t\n\t\t\t\nMade With 100% Whole Grains\n\t\t\n\t\t\t\nKosher\n\t\t\n\t",
+      "image": "https://cdn.bfldr.com/U447IH35/as/vg95kpp5m755nq62h3gzm6/717581-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+      "link": "https://www.costco.com/quaker-chewy-granola-bars%2c-variety-pack%2c-0.84-oz%2c-60-count.product.100371267.html"
+    },
+    {
+      "title": "Kirkland Signature In-Shell Pistachios, 3 lbs",
+      "price": "$15.99",
+      "details": "\n\t\t\n\t\t\tKosher (Circle K) Pareve\n\t\t\n\t\t\tCholesterol free\n\t\t\n\t\t\tTrans fat free\n\t\t\n\t\t\tU.S. extra #1\n\t\t\n\t\t\tRoasted and salted\n\t\t\n\t",
+      "image": "https://cdn.bfldr.com/U447IH35/as/xmxx7w24bqf4mmfw5t3p8g9/545345-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+      "link": "https://www.costco.com/kirkland-signature-in-shell-pistachios%2c-3-lbs.product.100336602.html"
+    },
+    {
+      "title": "Savanna Orchards Gourmet Honey Roasted Nut Mix, 30 oz",
+      "price": "$11.99",
+      "details": "\n\t\t\n\t\t\tCashews, Almonds, Peanuts & Pecans\n\t\t\n\t\t\t\nKosher\n\t\t\n\t\t\t\nTotal Net Weight: 30 oz\n\t\t\n\t",
+      "image": "https://cdn.bfldr.com/U447IH35/as/fskx4wvxc7chf83sn69jgjm/690033-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+      "link": "https://www.costco.com/savanna-orchards-gourmet-honey-roasted-nut-mix%2c-30-oz.product.100448289.html"
+    },
+    {
+      "title": "Jack Link's All American Beef Stick, Beef & Cheese, 1.2 oz, 16-count",
+      "price": "$19.99",
+      "details": "\n\t\t\n\t\t\tBeef & Cheese Sticks\n\t\t\n\t\t\t\nMade with Real Wisconsin Cheese\n\t\t\n\t\t\t\nIndividually wrapped\n\t\t\n\t\t\t\n1.2 oz pack\n\t\t\n\t\t\t\n16-count\n\t\t\n\t",
+      "image": "https://cdn.bfldr.com/U447IH35/as/77b88vszqnnpxbvwrsjj4xhq/315602-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+      "link": "https://www.costco.com/jack-link's-all-american-beef-stick%2c-beef-%2526-cheese%2c-1.2-oz%2c-16-count.product.100616551.html"
+    },
+    {
+      "title": "Power Crunch Protein Energy Bars, Peanut Butter Creme, 1.4 oz, 12-count",
+      "price": "$17.99",
+      "details": "\n\t\t\n\t\t\t13g Protein\n\t\t\n\t\t\t\n12 Individually Wrapped Bars\n\t\t\n\t\t\t\nMade in Canada\n\t\t\n\t\t\t\n16.8 oz Net Weight\n\t\t\n\t",
+      "image": "https://cdn.bfldr.com/U447IH35/as/n7rc8qprjgxj7p5ghjvj86jq/1175310-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+      "link": "https://www.costco.com/power-crunch-protein-energy-bars%2c-peanut-butter-creme%2c-1.4-oz%2c-12-count.product.100437907.html"
+    },
+    {
+      "title": "Skippy Peanut Butter & Chocolate Fudge Wafer Bar, 1.3 oz, 22-Count",
+      "price": "$13.99",
+      "details": "\n\t\t\n\t\t\tNo High Fructose Corn Syrup\n\t\t\n\t\t\t\nIndividually Wrapped for Resale\n\t\t\n\t\t\t\n1.3 oz Bar\n\t\t\n\t\t\t\n22-Count\n\t\t\n\t\t\t\nNet Weight 27.9 oz\n\t\t\n\t",
+      "image": "https://cdn.bfldr.com/U447IH35/as/g49m5nrz3xg76h38qxq842x/1729440-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+      "link": "https://www.costco.com/skippy-peanut-butter-%2526-chocolate-fudge-wafer-bar%2c-1.3-oz%2c-22-count.product.4000146022.html"
+    },
+    {
+      "title": "Wonderful Pistachios, No Shell, Variety Pack, .75 oz, 24-count",
+      "price": "$21.99",
+      "details": "\n\t\t\n\t\t\tPistachios are a plant based protein\n\t\t\n\t\t\t\nNon-GMO\n\t\t\n\t\t\t\nRoasted & Salted\n\t\t\n\t\t\t\nNo shell\n\t\t\n\t\t\t\nNet Weight 18 oz\n\t\t\n\t",
+      "image": "https://cdn.bfldr.com/U447IH35/as/rhb7jcjcvf77kvvbf93v5t26/1619064-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+      "link": "https://www.costco.com/wonderful-pistachios%2c-no-shell%2c-variety-pack%2c-.75-oz%2c-24-count.product.100826317.html"
+    },
+    {
+      "title": "Frito Lay Classic Mix, Variety Pack, 30-count",
+      "price": "$21.99",
+      "details": "\n\t\t\n\t\t\tClassic Mix\n\t\t\n\t\t\t\nVariety Pack\n\t\t\n\t\t\t\n30-count\n\t\t\n\t\t\t\nMix of Favorite Brands And Snacks\n\t\t\n\t\t\t\nConvenient And Compact Box\n\t\t\n\t",
+      "image": "",
+      "link": "https://www.costco.com/frito-lay-classic-mix%2c-variety-pack%2c-30-count.product.100383609.html"
+    },
+    {
+      "title": "Sliced Almonds, 5 lbs",
+      "price": "$17.99",
+      "details": "\n\t\t\n\t\t\tSliced Almonds\n\t\t\n\t\t\t\n5 lb bag\n\t\t\n\t\t\t\nRefrigerate after opening for optimum freshness\n\t\t\n\t\t\t\nKosher\n\t\t\n\t\t\t\nProduct of the USA\n\t\t\n\t",
+      "image": "",
+      "link": "https://www.costco.com/sliced-almonds%2c-5-lbs.product.100744274.html"
+    },
+    {
+      "title": "Lotus Biscoff Cookies, 8.8 oz., 4 Count",
+      "price": "$10.99",
+      "details": "\n\t\t\n\t\t\tContains Wheat And Soy\n\t\t\n\t\t\t\nProduct of Belgium\n\t\t\n\t\t\t\n4 Count\n\t\t\n\t\t\t\n8.8 oz. Packs\n\t\t\n\t\t\t\nNet Weight 35.2 oz\n\t\t\n\t",
+      "image": "",
+      "link": "https://www.costco.com/lotus-biscoff-cookies%2c-8.8-oz.%2c-4-count.product.100383407.html"
+    },
+    {
+      "title": "Kirkland Signature Walnut Halves, 3 lbs",
+      "price": "$8.99",
+      "details": "\n\t\t\n\t\t\tUS #1 Grade Walnuts\n\t\t\n\t\t\t\n20% Halves with Pieces\n\t\t\n\t\t\t \nGreat for Baking or Snacking\n\t\t\n\t\t\t\nProduct of the USA\n\t\t\n\t",
+      "image": "",
+      "link": "https://www.costco.com/kirkland-signature-walnut-halves%2c-3-lbs.product.100119388.html"
+    },
+    {
+      "title": "Nature's Garden, Probiotic Strawberry Yoggies, 30-count",
+      "price": "$13.99",
+      "details": "\n\t\t\n\t\t\tReal Fruit Pieces\n\t\t\n\t\t\t\nCoated by Yogurt\n\t\t\n\t\t\t\n0.7 oz Individual Packs\n\t\t\n\t\t\t\nNo Artificial Ingredients\n\t\t\n\t\t\t\nMade in the USA\n\t\t\n\t",
+      "image": "",
+      "link": "https://www.costco.com/nature's-garden%2c-probiotic-strawberry-yoggies%2c-30-count.product.4000111758.html"
+    },
+    {
+      "title": "Chips Ahoy! Cookies, Chocolate Chip, 1.55 oz, 24-count",
+      "price": "$12.99",
+      "details": "\n\t\t\n\t\t\tKosher Dairy\n\t\t\n\t\t\t\n0g Trans Fat per Serving\n\t\t\n\t\t\t\n4 cookies per pack\n\t\t\n\t\t\t\n24-count\n\t\t\n\t\t\t\nNet Weight 2lb\n\t\t\n\t",
+      "image": "",
+      "link": "https://www.costco.com/chips-ahoy!-cookies%2c-chocolate-chip%2c-1.55-oz%2c-24-count.product.100744619.html"
+    },
+    {
+      "title": "Almonds, 5 lbs",
+      "price": "$16.99",
+      "details": "\n\t\t\n\t\t\tAlmonds\n\t\t\n\t\t\t\nKosher\n\t\t\n\t\t\t\nRefrigerate after opening for optimum freshness\n\t\t\n\t\t\t\n5 lb bag\n\t\t\n\t\t\t\nProduct of the USA\n\t\t\n\t",
+      "image": "",
+      "link": "https://www.costco.com/almonds%2c-5-lbs.product.100744292.html"
+    },
+    {
+      "title": "Sonoma Creamery Pepper Jack Crisps, 10 oz",
+      "price": "$11.99",
+      "details": "\n\t\t\n\t\t\tMinimum purchase of 2 bags\n\t\t\n\t\t\t\nKeto-Friendly\n\t\t\n\t\t\t\n10g of Protein per Serving\n\t\t\n\t\t\t\nZero Sugar\n\t\t\n\t\t\t\nGluten-Free\n\t\t\n\t",
+      "image": "",
+      "link": "https://www.costco.com/sonoma-creamery-pepper-jack-crisps%2c-10-oz.product.100439045.html"
+    },
+    {
+      "title": "Country Archer Grass-Fed Beef Stick Minis, Original, 0.5 oz, 28-Count",
+      "price": "$19.99",
+      "details": "\n\t\t\n\t\t\tGluten Free\n\t\t\n\t\t\t\nPaleo\n\t\t\n\t\t\t\nKeto\n\t\t\n\t\t\t\nNo Sugar\n\t\t\n\t\t\t\nNo Preservatives\n\t\t\n\t",
+      "image": "",
+      "link": "https://www.costco.com/country-archer-grass-fed-beef-stick-minis%2c-original%2c-0.5-oz%2c-28-count.product.100538227.html"
+    },
+    {
+      "title": "Cracker Jack, Original, 1.25 oz, 30-count",
+      "price": "$10.99",
+      "details": "\n\t\t\n\t\t\tCaramel Coated Popcorn & Peanuts\n\t\t\n\t\t\t\nPrize inside each bag\n\t\t\n\t\t\t\nKosher Dairy\n\t\t\n\t\t\t\n1.25 oz bag\n\t\t\n\t\t\t\n30-count\n\t\t\n\t",
+      "image": "",
+      "link": "https://www.costco.com/cracker-jack%2c-original%2c-1.25-oz%2c-30-count.product.100976159.html"
+    },
+    {
+      "title": "Sugar Bowl Bakery, Petite Palmiers, 32 oz",
+      "price": "$10.49",
+      "details": "\n\t\t\n\t\t\tMade with Simple Ingredients\n\t\t\n\t\t\t\nNo Artificial Flavors or Colors\n\t\t\n\t\t\t\nNo Preservatives\n\t\t\n\t\t\t\nKosher\n\t\t\n\t\t\t\nNet Weight 32 oz.\n\t\t\n\t",
+      "image": "",
+      "link": "https://www.costco.com/sugar-bowl-bakery%2c-petite-palmiers%2c-32-oz.product.100377388.html"
+    },
+    {
+      "title": "Oreo Cookies Variety Pack, 60-count",
+      "price": "$16.99",
+      "details": "\n\t\t\n\t\t\tKosher\n\t\t\n\t\t\t\n60 packs total\n\t\t\n\t\t\t\nNet Weight 3lb\n\t\t\n\t\t\t\nMade In Mexico\n\t\t\n\t",
+      "image": "",
+      "link": "https://www.costco.com/oreo-cookies-variety-pack%2c-60-count.product.100699040.html"
+    }
+  ],
+  "https://www.costco.com/snacks.html?currentPage=5": [
+    {
+      "title": "Kirkland Signature Pecan Halves, 2 lbs",
+      "price": "$12.99",
+      "details": "\n\t\t\n\t\t\tPecan Halves\n\t\t\n\t\t\t US Fancy\n\t\t\n\t\t\t#1 Grade\n\t\t\n\t\t\t Perfect as a Snack\n\t\t\n\t",
+      "image": "https://cdn.bfldr.com/U447IH35/as/sc8c9zhhbvrvnfsh7hsj5xtt/203444-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+      "link": "https://www.costco.com/kirkland-signature-pecan-halves%2c-2-lbs.product.100115257.html"
+    },
+    {
+      "title": "Oreo Chocolate Sandwich Cookies, 2.4 oz, 30-count",
+      "price": "$15.99",
+      "details": "\n\t\t\n\t\t\tKosher\n\t\t\n\t\t\t\nChocolate wafers filled with Oreo creme\n\t\t\n\t\t\t\n6 Cookies per pack\n\t\t\n\t\t\t\n30-count\n\t\t\n\t",
+      "image": "https://cdn.bfldr.com/U447IH35/as/ggcv954jmx3b8p7ftxxrf49/1085910-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+      "link": "https://www.costco.com/oreo-chocolate-sandwich-cookies%2c-2.4-oz%2c-30-count.product.100381426.html"
+    },
+    {
+      "title": "OREO Chocolate Sandwich Cookies, Stay Fresh Packs, 12-Count",
+      "price": "$13.49",
+      "details": "\n\t\t\n\t\t\t100% Sustainably Sourced Cocoa\n\t\t\n\t\t\t\nNo High Fructose Corn Syrup\n\t\t\n\t\t\t\nKosher\n\t\t\n\t\t\t\n12-packs\n\t\t\n\t\t\t\nNet Weight 3lb\n\t\t\n\t",
+      "image": "https://cdn.bfldr.com/U447IH35/as/6xgs5sfqn34fnc59cvp974m9/1664082-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+      "link": "https://www.costco.com/oreo-chocolate-sandwich-cookies%2c-stay-fresh-packs%2c-12-count.product.100982907.html"
+    },
+    {
+      "title": "Think Jerky Grass Fed Beef Sticks, Original, 1 oz, 20-count",
+      "price": "$29.99",
+      "details": "\n\t\t\n\t\t\tSlow Cooked and Seasoned\n\t\t\n\t\t\t\nChef Crafted and Inspired Recipes\n\t\t\n\t\t\t\nLow in Calories, Carbs and Salt\n\t\t\n\t\t\t\nHormone and Antibiotic-Free\n\t\t\n\t\t\t\n100% Grass-Fed Beef\n\t\t\n\t",
+      "image": "https://cdn.bfldr.com/U447IH35/as/578gvzbhpr7s8txmkvks4f9b/1675520-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+      "link": "https://www.costco.com/think-jerky-grass-fed-beef-sticks%2c-original%2c-1-oz%2c-20-count.product.4000025930.html"
+    },
+    {
+      "title": "Pocky Chocolate Biscuit Stick, 1.41 oz, 10-count",
+      "price": "$9.99",
+      "details": "\n\t\t\n\t\t\tChocolate Cream Covered Biscuit Sticks\n\t\t\n\t\t\t\n10-count\n\t\t\n\t\t\t\n1.41 oz Packages\n\t\t\n\t\t\t\nProduct of Thailand\n\t\t\n\t",
+      "image": "https://cdn.bfldr.com/U447IH35/as/f59kj8xxfw2c2n4t9z2v29th/582542-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+      "link": "https://www.costco.com/pocky-chocolate-biscuit-stick%2c-1.41-oz%2c-10-count.product.100445735.html"
+    },
+    {
+      "title": "Keebler Bite Size Cookies made with Milk Chocolate M&M's Minis, 1.6 oz, 30-count",
+      "price": "$11.49",
+      "details": "\n\t\t\n\t\t\tKosher\n\t\t\n\t\t\t\n230 Calories per Pouch\n\t\t\n\t\t\t\n4.5 g Saturated Fat per Pouch\n\t\t\n\t\t\t\n140 mg Sodium per Pouch\n\t\t\n\t\t\t\n15 g Sugars per Pouch\n\t\t\n\t",
+      "image": "https://cdn.bfldr.com/U447IH35/as/jn49mkxnwtcjxgw3w684xrt/1031867-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+      "link": "https://www.costco.com/keebler-bite-size-cookies-made-with-milk-chocolate-m%2526m's-minis%2c-1.6-oz%2c-30-count.product.100420857.html"
+    },
+    {
+      "title": "Nature Valley Sweet and Salty Granola Bar, Peanut, 1.2 oz, 48-count",
+      "price": "$18.99",
+      "details": "\n\t\t\n\t\t\tNo Artificial Flavors\n\t\t\n\t\t\t\nNo Artificial Colors\n\t\t\n\t\t\t\nNo High Fructose Corn Syrup\n\t\t\n\t\t\t\nIndividually Wrapped\n\t\t\n\t",
+      "image": "https://cdn.bfldr.com/U447IH35/as/3m9m2f3tqbmnhhs2jgbtr/1952-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+      "link": "https://www.costco.com/nature-valley-sweet-and-salty-granola-bar%2c-peanut%2c-1.2-oz%2c-48-count.product.100381618.html"
+    },
+    {
+      "title": "Kirkland Signature Praline Pecans, 2.5 lbs",
+      "price": "$16.99",
+      "details": "\n\t\t\n\t\t\tKosher (Circle U) D\n\t\t\n\t\t\t\nFancy Pecans with a Sweet Praline Coating\n\t\t\n\t\t\t\n40 oz\n\t\t\n\t\t\t\nProcessed and Packaged in the USA\n\t\t\n\t",
+      "image": "https://cdn.bfldr.com/U447IH35/as/wzbt685j8tt73fqfnw8hgw9s/1209607-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+      "link": "https://www.costco.com/kirkland-signature-praline-pecans%2c-2.5-lbs.product.100491294.html"
+    },
+    {
+      "title": "Milano Cookies, Double Dark Chocolate, 0.98 oz, 30-count",
+      "price": "$13.99",
+      "details": "\n\t\t\n\t\t\tKosher dairy\n\t\t\n\t\t\t\nDouble dark chocolate filling\n\t\t\n\t\t\t\n2 cookies per pack\n\t\t\n\t\t\t\n0.98 oz pk\n\t\t\n\t\t\t\n30 ct\n\t\t\n\t",
+      "image": "https://cdn.bfldr.com/U447IH35/as/7sfbpxxf993j67745ckwsgwn/1707643-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+      "link": "https://www.costco.com/milano-cookies%2c-double-dark-chocolate%2c-0.98-oz%2c-30-count.product.4000094517.html"
+    },
+    {
+      "title": "Chex Mix Muddy Buddies, Peanut Butter and Chocolate, 1.75 oz, 30-count",
+      "price": "$18.99",
+      "details": "\n\t\t\n\t\t\tKosher\n\t\t\n\t\t\t\nNaturally and Artificially Flavored\n\t\t\n\t\t\t\nPeanut Butter and Cocoa-Seasoned Corn Chex\n\t\t\n\t\t\t\nPowdery Coating for a Sweet and Salty Delight\n\t\t\n\t\t\t\nBags Labeled for Individual Sale\n\t\t\n\t",
+      "image": "https://cdn.bfldr.com/U447IH35/as/3qhzskth2qcr6przjk6nxjz/1748637-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+      "link": "https://www.costco.com/chex-mix-muddy-buddies%2c-peanut-butter-and-chocolate%2c-1.75-oz%2c-30-count.product.4000187739.html"
+    },
+    {
+      "title": "Movie Marathon Gourmet Popcorn Gift Set",
+      "price": "$39.99",
+      "details": "\n\t\t\n\t\t\tPopcorn Popper\n\t\t\n\t\t\tClassic Popcorn & Seasoning Kit\n\t\t\n\t\t\tDOTS Candy\n\t\t\n\t\t\tHaribo Goldbears Gummy\n\t\t\n\t\t\t And More\n\t\t\n\t",
+      "image": "https://cdn.bfldr.com/U447IH35/as/h5xjcjprwzfv4jpjsmvhxg/1683421-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+      "link": "https://www.costco.com/movie-marathon-gourmet-popcorn-gift-set.product.4000037800.html"
+    },
+    {
+      "title": "Kirkland Signature Trail Mix, 4 lbs",
+      "price": "$15.99",
+      "details": "\n\t\t\n\t\t\tPeanuts\n\t\t\n\t\t\t\nM&M's Milk Chocolate and Peanut\n\t\t\n\t\t\t\nRaisins\n\t\t\n\t\t\t\nAlmonds\n\t\t\n\t\t\t\nCashews\n\t\t\n\t",
+      "image": "https://cdn.bfldr.com/U447IH35/as/v6bpkq5fkvhf95nb82btk3q/1474436-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+      "link": "https://www.costco.com/kirkland-signature-trail-mix%2c-4-lbs.product.100752766.html"
+    },
+    {
+      "title": "Kirkland Signature Butter Toffee Cashews, 24 oz",
+      "price": "$9.99",
+      "details": "\n\t\t\n\t\t\tA true butter toffee flavor\n\t\t\n\t\t\t\nNo Artificial Flavors or Colors\n\t\t\n\t\t\t\nKosher\n\t\t\n\t\t\t\n24 oz Resealable Pouch\n\t\t\n\t\t\t\nProduced in the USA\n\t\t\n\t",
+      "image": "",
+      "link": "https://www.costco.com/kirkland-signature-butter-toffee-cashews%2c-24-oz.product.100987299.html"
+    },
+    {
+      "title": "Grandma's Sandwich Creme Cookies, Vanilla, 3.245 oz, 24-Count",
+      "price": "$18.99",
+      "details": "\n\t\t\n\t\t\tKosher\n\t\t\n\t\t\t\nPackaged for Resale\n\t\t\n\t\t\t\n10 Cookies per Pack\n\t\t\n\t\t\t\n24-Count\n\t\t\n\t\t\t\nNet Weight 3.245 oz\n\t\t\n\t",
+      "image": "",
+      "link": "https://www.costco.com/grandma's-sandwich-creme-cookies%2c-vanilla%2c-3.245-oz%2c-24-count.product.100761566.html"
+    },
+    {
+      "title": "Sugar Bowl Bakery, Madeleine Cookies, 1 oz, 28-Count",
+      "price": "$10.49",
+      "details": "\n\t\t\n\t\t\tKosher\n\t\t\n\t\t\t\nIndividually wrapped\n\t\t\n\t\t\t\nMade in the USA\n\t\t\n\t\t\t\n28-Count\n\t\t\n\t\t\t\nNet Weight: 28 oz\n\t\t\n\t",
+      "image": "",
+      "link": "https://www.costco.com/sugar-bowl-bakery%2c-madeleine-cookies%2c-1-oz%2c-28-count.product.100456496.html"
+    },
+    {
+      "title": "GoGo SqueeZ YogurtZ, Variety Pack, 3 oz, 20-count",
+      "price": "$14.99",
+      "details": "\n\t\t\n\t\t\tLow Fat Yogurt\n\t\t\n\t\t\t\n10 Blueberry, 10 Strawberry\n\t\t\n\t\t\t\n1 Box with 20 Pouches\n\t\t\n\t\t\t\n3 oz Pouches\n\t\t\n\t",
+      "image": "",
+      "link": "https://www.costco.com/gogo-squeez-yogurtz%2c-variety-pack%2c-3-oz%2c-20-count.product.100536650.html"
+    },
+    {
+      "title": "Island Princess Macadamia Popcorn Crunch 24 oz 2-pack",
+      "price": "$59.99",
+      "details": "\n\t\t\n\t\t\tMacadamia Popcorn Crunch\n\t\t\n\t\t\t100% Made in Hawaii\n\t\t\n\t",
+      "image": "",
+      "link": "https://www.costco.com/island-princess-macadamia-popcorn-crunch-24-oz-2-pack.product.100980729.html"
+    },
+    {
+      "title": "Jack Link's Big Beef Jerky Stick, Original, 0.92 oz, 20-count",
+      "price": "$16.99",
+      "details": "\n\t\t\n\t\t\tNaturally Hickory Smoked\n\t\t\n\t\t\t\nNo Added MSG\n\t\t\n\t\t\t\nIndividually Wrapped\n\t\t\n\t\t\t\nLunchbox Ready\n\t\t\n\t\t\t\n18.4 oz. Total Net Weight\n\t\t\n\t",
+      "image": "",
+      "link": "https://www.costco.com/jack-link's-big-beef-jerky-stick%2c-original%2c-0.92-oz%2c-20-count.product.100403322.html"
+    },
+    {
+      "title": "Crunchmaster Multi-Grain Crackers, 28 oz",
+      "price": "$12.99",
+      "details": "\n\t\t\n\t\t\tKosher (Circle U) D\n\t\t\n\t\t\t\nCertified gluten free\n\t\t\n\t\t\t\nNon-GMO project verified\n\t\t\n\t\t\t\n0g Cholesterol\n\t\t\n\t\t\t\n100% Whole grain\n\t\t\n\t",
+      "image": "",
+      "link": "https://www.costco.com/crunchmaster-multi-grain-crackers%2c-28-oz.product.100381441.html"
+    },
+    {
+      "title": "Nutter Butter Sandwich Cookies, 1.9 oz, 24-count",
+      "price": "$12.99",
+      "details": "\n\t\t\n\t\t\tKosher(Circle U)\n\t\t\n\t\t\t\nDairy Free\n\t\t\n\t\t\t\nTrans Fat 0g per serving\n\t\t\n\t\t\t\nOriginal Peanut Butter Sandwich Cookies\n\t\t\n\t\t\t\n4 cookies per pack\n\t\t\n\t",
+      "image": "",
+      "link": "https://www.costco.com/nutter-butter-sandwich-cookies%2c-1.9-oz%2c-24-count.product.100415941.html"
+    },
+    {
+      "title": "Nutty & Fruity Spicy Chili Tamarind Bites, 24 oz",
+      "price": "$11.99",
+      "details": "\n\t\t\n\t\t\tMade with Real Fruit\n\t\t\n\t\t\t\nNo Artificial Colors\n\t\t\n\t\t\t\n0g Trans Fat per Serving\n\t\t\n\t\t\t\nMedium Spiciness\n\t\t\n\t\t\t\nNet Weight 24 oz\n\t\t\n\t",
+      "image": "",
+      "link": "https://www.costco.com/nutty-%2526-fruity-spicy-chili-tamarind-bites%2c-24-oz.product.100853074.html"
+    },
+    {
+      "title": "Paradise Green, Dried Mango, 35.2 oz",
+      "price": "$13.99",
+      "details": "\n\t\t\n\t\t\tDried Mango\n\t\t\n\t\t\t\nPlant Based\n\t\t\n\t\t\t\nFat Free\n\t\t\n\t\t\t\nGood Source of Vitamin C\n\t\t\n\t\t\t\nNon GMO\n\t\t\n\t",
+      "image": "",
+      "link": "https://www.costco.com/paradise-green%2c-dried-mango%2c-35.2-oz.product.100381427.html"
+    },
+    {
+      "title": "ParmCrisps Snack Mix, Ranch, 1.50 oz, 12-count",
+      "price": "$17.99",
+      "details": "\n\t\t\n\t\t\tKeto friendly\n\t\t\n\t\t\t\nGluten free\n\t\t\n\t\t\t\nDry roasted nuts\n\t\t\n\t\t\t\n100% cheese crisps\n\t\t\n\t\t\t\n12-count\n\t\t\n\t",
+      "image": "",
+      "link": "https://www.costco.com/parmcrisps-snack-mix%2c-ranch%2c-1.50-oz%2c-12-count.product.100827032.html"
+    },
+    {
+      "title": "Nutella Biscuits, 9.7 oz, 4-count",
+      "price": "$14.99",
+      "details": "\n\t\t\n\t\t\tHazelnut\n\t\t\n\t\t\t\n9.7 oz Bags\n\t\t\n\t\t\t\n4 Total Bags\n\t\t\n\t",
+      "image": "",
+      "link": "https://www.costco.com/nutella-biscuits%2c-9.7-oz%2c-4-count.product.4000250022.html"
+    }
+  ],
+  "https://www.costco.com/snacks.html?currentPage=6": [
+    {
+      "title": "Nature Valley Biscuits with Almond Butter, 1.35 oz, 30-count",
+      "price": "$17.99",
+      "details": "\n\t\t\n\t\t\t14 Grams of Whole Grain\n\t\t\n\t\t\t\nNo Trans Fat\n\t\t\n\t\t\t\nNo Artificial Colors\n\t\t\n\t\t\t\nNo HFCS\n\t\t\n\t\t\t\nNet Weight 2 lb\n\t\t\n\t",
+      "image": "https://cdn.bfldr.com/U447IH35/as/hcs4s74vmr4v9xwxfvq8stcj/1036671-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+      "link": "https://www.costco.com/nature-valley-biscuits-with-almond-butter%2c-1.35-oz%2c-30-count.product.100403304.html"
+    },
+    {
+      "title": "Terra Delyssa Organic Pitted Deglet Noor Dates 2-pack (44 oz. each)",
+      "price": "$29.99",
+      "details": "\n\t\t\n\t\t\t2 pack of 44 oz resealable bag\n\t\t\n\t\t\t\nAll natural:  unsulfured, organically grown, pesticide free\n\t\t\n\t\t\t\nProject Verified Non-GMO\n\t\t\n\t\t\t\nKosher\n\t\t\n\t\t\t\nGluten Free and Allergen Free\n\t\t\n\t",
+      "image": "https://cdn.bfldr.com/U447IH35/as/7h6f23bvf9mxpnnh4s37mms/1830169-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+      "link": "https://www.costco.com/terra-delyssa-organic-pitted-deglet-noor-dates-2-pack-44-oz.-each.product.4000266098.html"
+    },
+    {
+      "title": "Popcornopolis Ultimate Classic Assorted Tall Cones, Variety, 24-count",
+      "price": "$89.99",
+      "details": "\n\t\t\n\t\t\t6 Caramel Corn\n\t\t\n\t\t\t \n6 Cheddar Cheese\n\t\t\n\t\t\t \n6 Kettle Corn\n\t\t\n\t\t\t\n6 Zebra® Popcorn\n\t\t\n\t\t\t\n24 total tall cones\n\t\t\n\t",
+      "image": "https://cdn.bfldr.com/U447IH35/as/n9hbffxv635t67ttnq7xmcv/563209-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+      "link": "https://www.costco.com/popcornopolis-ultimate-classic-assorted-tall-cones%2c-variety%2c-24-count.product.11618428.html"
+    },
+    {
+      "title": "Kirkland Signature Organic Pine Nuts, 1.5 lbs",
+      "price": "$29.99",
+      "details": "\n\t\t\n\t\t\tUSDA Organic\n\t\t\n\t\t\t\nKosher (Circle U)\n\t\t\n\t\t\t\nCholesterol free\n\t\t\n\t\t\t\nTrans fat free\n\t\t\n\t\t\t\nIdeal for pasta and salads\n\t\t\n\t",
+      "image": "https://cdn.bfldr.com/U447IH35/as/cxfxp9km654kv34jqbtcfp/941275-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+      "link": "https://www.costco.com/kirkland-signature-organic-pine-nuts%2c-1.5-lbs.product.100334735.html"
+    },
+    {
+      "title": "Popchips Potato Chips, Variety Pack, 0.8 oz, 30-count",
+      "price": "$16.99",
+      "details": "\n\t\t\n\t\t\tGluten Free\n\t\t\n\t\t\t\nTrans Fat Free\n\t\t\n\t\t\t\nNo added preservatives\n\t\t\n\t\t\t\nNo artificial flavors\n\t\t\n\t\t\t\n100 Calories per Bag\n\t\t\n\t",
+      "image": "https://cdn.bfldr.com/U447IH35/as/jmtm6689xfq334zczc5bhsr/1089564-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+      "link": "https://www.costco.com/popchips-potato-chips%2c-variety-pack%2c-0.8-oz%2c-30-count.product.100401618.html"
+    },
+    {
+      "title": "Knott's Bite Size Cookies, Strawberry Shortbread, 2 oz, 36-count",
+      "price": "$13.19",
+      "details": "\n\t\t\n\t\t\tKosher\n\t\t\n\t\t\t\nNo Trans-Fats\n\t\t\n\t\t\t\n2 oz Bags\n\t\t\n\t\t\t\n36-Count\n\t\t\n\t\t\t\nTotal Net Weight: 4 lbs 8 oz\n\t\t\n\t",
+      "image": "https://cdn.bfldr.com/U447IH35/as/ps8ghmrw93kh5hrcs6g9qmk/1021629-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+      "link": "https://www.costco.com/knott's-bite-size-cookies%2c-strawberry-shortbread%2c-2-oz%2c-36-count.product.100381434.html"
+    },
+    {
+      "title": "Ruffles Potato Chips, Cheddar & Sour Cream, 1.5 oz, 64-count",
+      "price": "$49.99",
+      "details": "\n\t\t\n\t\t\t0g Trans Fat Per Serving\n\t\t\n\t\t\t\nGluten Free\n\t\t\n\t\t\t\nMade with Real Cheddar\n\t\t\n\t\t\t\nNet Weight 96 oz\n\t\t\n\t",
+      "image": "https://cdn.bfldr.com/U447IH35/as/tthj3s738xr76wjb76qvbr/320886-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+      "link": "https://www.costco.com/ruffles-potato-chips%2c-cheddar-%2526-sour-cream%2c-1.5-oz%2c-64-count.product.100539697.html"
+    },
+    {
+      "title": "Blue Diamond Almonds, Smokehouse, 1.5 oz, 12-count",
+      "price": "$11.49",
+      "details": "\n\t\t\n\t\t\tSmokehouse Almonds\n\t\t\n\t\t\t\n12-count\n\t\t\n\t\t\t\n1.5 oz tube\n\t\t\n\t\t\t\n18 oz. Total Net Weight\n\t\t\n\t",
+      "image": "https://cdn.bfldr.com/U447IH35/as/72b8gk9t9bt9w9w4jgc7wt/5656-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+      "link": "https://www.costco.com/blue-diamond-almonds%2c-smokehouse%2c-1.5-oz%2c-12-count.product.100381614.html"
+    },
+    {
+      "title": "No Sugar Keto Bar Chocolate Chip Cookie Dough (12-count) 2-Pack",
+      "price": "$42.99",
+      "details": "\n\t\t\n\t\t\t2-pack (12 count per box)\n\t\t\n\t\t\t\nKeto\n\t\t\n\t\t\t\nGluten Free\n\t\t\n\t\t\t\nNon GMO\n\t\t\n\t\t\t\nNatural Ingredients\n\t\t\n\t",
+      "image": "https://cdn.bfldr.com/U447IH35/as/4fhv4sr94pj46pbpxnkqw/1582088-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+      "link": "https://www.costco.com/no-sugar-keto-bar-chocolate-chip-cookie-dough--12-count-2-pack.product.100789017.html"
+    },
+    {
+      "title": "Walnut Pieces, 5 lbs",
+      "price": "$16.99",
+      "details": "\n\t\t\n\t\t\tWalnut Pieces\n\t\t\n\t\t\t\nKosher\n\t\t\n\t\t\t\nRefrigerate after opening for optimum freshness\n\t\t\n\t\t\t\n5 lb bag\n\t\t\n\t\t\t\nProduct of the USA\n\t\t\n\t",
+      "image": "https://cdn.bfldr.com/U447IH35/as/2kj48f3nfmwbm7rfbfjn85c/1495144-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+      "link": "https://www.costco.com/walnut-pieces%2c-5-lbs.product.100744324.html"
+    },
+    {
+      "title": "Lorna Doone Shortbread Cookies, 1.5 oz, 30-count",
+      "price": "$12.99",
+      "details": "\n\t\t\n\t\t\tShortbread Cookies\n\t\t\n\t\t\t\nKosher\n\t\t\n\t\t\t\n6 Cookies per pack\n\t\t\n\t\t\t\n30-Count\n\t\t\n\t\t\t\n45 oz. Total Net Weight\n\t\t\n\t",
+      "image": "https://cdn.bfldr.com/U447IH35/as/czs82wxmhm2fpmrcrf9frrsw/218740-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+      "link": "https://www.costco.com/lorna-doone-shortbread-cookies%2c-1.5-oz%2c-30-count.product.100409510.html"
+    },
+    {
+      "title": "Bon Appetit, Banana Bread Slice, 4 oz, 8-Count",
+      "price": "$13.99",
+      "details": "\n\t\t\n\t\t\tBanana Bread Slice\n\t\t\n\t\t\t\nIndividually Wrapped for Resale\n\t\t\n\t\t\t\n4 oz Package\n\t\t\n\t\t\t\n8-Count\n\t\t\n\t",
+      "image": "https://cdn.bfldr.com/U447IH35/as/2rwmqbbrhj36rnrb7j4bq9s/1455309-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+      "link": "https://www.costco.com/bon-appetit%2c-banana-bread-slice%2c-4-oz%2c-8-count.product.100664109.html"
+    },
+    {
+      "title": "Mother's, Circus Animal Cookies, 1 oz, 30-count",
+      "price": "$14.99",
+      "details": "\n\t\t\n\t\t\t30 count\n\t\t\n\t\t\t\n1 oz Bags\n\t\t\n\t\t\t\nNo High Fructose Corn Syrup\n\t\t\n\t\t\t\nKosher Dairy\n\t\t\n\t",
+      "image": "",
+      "link": "https://www.costco.com/mother's%2c-circus-animal-cookies%2c-1-oz%2c-30-count.product.100420837.html"
+    },
+    {
+      "title": "Pecan Pieces, 5 lbs",
+      "price": "$35.99",
+      "details": "\n\t\t\n\t\t\tPecan Pieces\n\t\t\n\t\t\t\nKosher\n\t\t\n\t\t\t\nRefrigerate after opening for optimum freshness\n\t\t\n\t\t\t\n5 lb bag\n\t\t\n\t\t\t\nProduct of the USA\n\t\t\n\t",
+      "image": "",
+      "link": "https://www.costco.com/pecan-pieces%2c-5-lbs.product.100744275.html"
+    },
+    {
+      "title": "Shrimp Chips with Garlic and Butter 16 oz 2-pack",
+      "price": "$27.99",
+      "details": "\n\t\t\n\t\t\tShrimp Chips with Garlic and Butter\n\t\t\n\t\t\t\n16 oz 2 pack\n\t\t\n\t\t\t \n13.5% Shrimp\n\t\t\n\t\t\t\nFried Chips made from Wild Shrimps and Sustainable Palm Oil\n\t\t\n\t",
+      "image": "",
+      "link": "https://www.costco.com/shrimp-chips-with-garlic-and-butter-16-oz-2-pack.product.100683891.html"
+    },
+    {
+      "title": "Innofoods Organic Almond & Pecan Clusters, 16 oz",
+      "price": "$13.99",
+      "details": "\n\t\t\n\t\t\tOrganic\n\t\t\n\t\t\t\nNon-GMO\n\t\t\n\t\t\t\nGluten Free\n\t\t\n\t\t\t\nVegan Friendly\n\t\t\n\t\t\t\nKeto Friendly\n\t\t\n\t",
+      "image": "",
+      "link": "https://www.costco.com/innofoods-organic-almond-%2526-pecan-clusters%2c-16-oz.product.100668068.html"
+    },
+    {
+      "title": "Prevail Variety Grass Fed Beef Jerky 10-pack",
+      "price": "$49.99",
+      "details": "\n\t\t\n\t\t\t100% Grass-fed Beef Jerky - 10 pack \n\t\t\n\t\t\t 3 Original, 2 Spicy, 3 Umami, 2 Lemongrass\n\t\t\n\t\t\t No MSG or nitrites/nitrates\n\t\t\n\t\t\t No antibiotics or hormones\n\t\t\n\t\t\t Gluten-free Certified\n\t\t\n\t",
+      "image": "",
+      "link": "https://www.costco.com/prevail-variety-grass-fed-beef-jerky-10-pack.product.100975576.html"
+    },
+    {
+      "title": "Prevail Original Grass Fed Beef Jerky 10-pack",
+      "price": "$49.99",
+      "details": "\n\t\t\n\t\t\t•100% Grass-fed Beef Jerky - 10 pack\n\t\t\n\t\t\t No MSG or nitrites/nitrates\n\t\t\n\t\t\t No antibiotics or hormones\n\t\t\n\t\t\t Gluten-free Certified\n\t\t\n\t\t\t Keto Friendly\n\t\t\n\t",
+      "image": "",
+      "link": "https://www.costco.com/prevail-original-grass-fed-beef-jerky-10-pack.product.100975539.html"
+    },
+    {
+      "title": "Jack Link's Beef Jerky, Sweet and Hot, 3.25 oz, 3-count",
+      "price": "$16.99",
+      "details": "\n\t\t\n\t\t\t3.25 oz bag\n\t\t\n\t\t\t\n3 count\n\t\t\n\t\t\t\n80 Calories\n\t\t\n\t\t\t\nMade with Premium Beef\n\t\t\n\t\t\t\n96% Fat Free\n\t\t\n\t",
+      "image": "",
+      "link": "https://www.costco.com/jack-link's-beef-jerky%2c-sweet-and-hot%2c-3.25-oz%2c-3-count.product.100415912.html"
+    },
+    {
+      "title": "Kirkland Signature, Sunsweet Whole Dried Plums, 3.5 lbs",
+      "price": "$11.99",
+      "details": "\n\t\t\n\t\t\tCalifornia Grown\n\t\t\n\t\t\t\nGood Source of Fiber\n\t\t\n\t\t\t\nFat Free\n\t\t\n\t\t\t\nKosher\n\t\t\n\t\t\t\nResealable Bag\n\t\t\n\t",
+      "image": "",
+      "link": "https://www.costco.com/kirkland-signature%2c-sunsweet-whole-dried-plums%2c-3.5-lbs.product.100334316.html"
+    },
+    {
+      "title": "Made In Nature Organic Calimyrna Figs 40 oz, 3-pack",
+      "price": "$49.99",
+      "details": "\n\t\t\n\t\t\tGluten Free\n\t\t\n\t\t\tNut Allergen Free\n\t\t\n\t\t\tOrganic Dried Fruit\n\t\t\n\t",
+      "image": "",
+      "link": "https://www.costco.com/made-in-nature-organic-calimyrna-figs-40-oz%2c-3-pack.product.100038876.html"
+    },
+    {
+      "title": "Savanna Honey Roasted Mix Nuts, 30 oz, 2-pack",
+      "price": "$42.99",
+      "details": "\n\t\t\n\t\t\tCashews\n\t\t\n\t\t\t\nAlmonds\n\t\t\n\t\t\t\nPecans\n\t\t\n\t\t\t\nMacadamias\n\t\t\n\t\t\t\nIncludes (2) Resealable Cans\n\t\t\n\t",
+      "image": "",
+      "link": "https://www.costco.com/savanna-honey-roasted-mix-nuts%2c-30-oz%2c-2-pack.product.100312634.html"
+    },
+    {
+      "title": "Jack Link's Beef Jerky, Peppered, 3.25 oz, 3-count",
+      "price": "$16.99",
+      "details": "\n\t\t\n\t\t\tBeef Jerky Peppered\n\t\t\n\t\t\t\n80 Calories\n\t\t\n\t\t\t\nMade with Premium Beef\n\t\t\n\t\t\t\n96% Fat Free\n\t\t\n\t\t\t\n3 count\n\t\t\n\t",
+      "image": "",
+      "link": "https://www.costco.com/jack-link's-beef-jerky%2c-peppered%2c-3.25-oz%2c-3-count.product.100438387.html"
+    },
+    {
+      "title": "Sheila G's Brownie Brittle, Chocolate Chip, 1 oz, 20-count",
+      "price": "$10.99",
+      "details": "\n\t\t\n\t\t\tKosher\n\t\t\n\t\t\t\nNut Free\n\t\t\n\t\t\t\nThin, Light, Crispy\n\t\t\n\t\t\t\nPortion-Perfect Bags\n\t\t\n\t\t\t\nNet Weight 20oz\n\t\t\n\t",
+      "image": "",
+      "link": "https://www.costco.com/sheila-g's-brownie-brittle%2c-chocolate-chip%2c-1-oz%2c-20-count.product.4000105880.html"
+    }
+  ],
+  "https://www.costco.com/snacks.html?currentPage=7": [
+    {
+      "title": "Nutty & Fruity, Chili Mango, 30 oz",
+      "price": "$9.99",
+      "details": "\n\t\t\n\t\t\tNaturally Gluten Free\n\t\t\n\t\t\t\nNon GMO\n\t\t\n\t\t\t\nNo Added Colors\n\t\t\n\t\t\t\nReal Fruit\n\t\t\n\t\t\t\nNet Weight: 30 oz\n\t\t\n\t",
+      "image": "https://cdn.bfldr.com/U447IH35/as/3p33x84gqx5xp8txtgjkqx/1157944-inc__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+      "link": "https://www.costco.com/nutty-%2526-fruity%2c-chili-mango%2c-30-oz.product.100437783.html"
+    },
+    {
+      "title": "Goldfish Baked Snack Crackers, Cheddar, 66 oz",
+      "price": "$14.99",
+      "details": "\n\t\t\n\t\t\tBaked Snack Crackers\n\t\t\n\t\t\t\nCheddar\n\t\t\n\t\t\t \n100% Real Cheese\n\t\t\n\t\t\t\n3 stay fresh bags\n\t\t\n\t\t\t\n66 oz box\n\t\t\n\t",
+      "image": "https://cdn.bfldr.com/U447IH35/as/4nqkxx7r8skvt5m2k5qh/1542070-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+      "link": "https://www.costco.com/goldfish-baked-snack-crackers%2c-cheddar%2c-66-oz.product.100756482.html"
+    },
+    {
+      "title": "Bobo's PB&Js Oat Sandwich Bar, Variety Pack, 2.1 oz, 20-count",
+      "price": "$18.99",
+      "details": "\n\t\t\n\t\t\tNon GMO\n\t\t\n\t\t\t\nEarth Kosher Certified\n\t\t\n\t\t\t\nGluten free\n\t\t\n\t\t\t\nVegan\n\t\t\n\t\t\t\nSoy free\n\t\t\n\t",
+      "image": "https://cdn.bfldr.com/U447IH35/as/93642tp8hcmbbp6948kv7wt7/1019526-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+      "link": "https://www.costco.com/bobo's-pb%2526js-oat-sandwich-bar%2c-variety-pack%2c-2.1-oz%2c-20-count.product.4000146558.html"
+    },
+    {
+      "title": "Kirkland Signature, Whole Dried Blueberries, 20 oz",
+      "price": "$10.49",
+      "details": "\n\t\t\n\t\t\tWhole Dried Blueberries\n\t\t\n\t\t\t\nResealable Bag\n\t\t\n\t\t\t\nProduct of the USA\n\t\t\n\t\t\t\nNet Weight 20 oz\n\t\t\n\t",
+      "image": "https://cdn.bfldr.com/U447IH35/as/57jn3gbxfh8tg8h6cn4gxj/968318-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+      "link": "https://www.costco.com/kirkland-signature%2c-whole-dried-blueberries%2c-20-oz.product.100115171.html"
+    },
+    {
+      "title": "Old Trapper Beef Jerky, Peppered, 10 oz",
+      "price": "$12.99",
+      "details": "\n\t\t\n\t\t\tBeef jerky\n\t\t\n\t\t\t\nPeppered\n\t\t\n\t\t\t\nNaturally smoked\n\t\t\n\t\t\t\n10 oz resealable bag\n\t\t\n\t",
+      "image": "https://cdn.bfldr.com/U447IH35/as/6zvrpvm5f2vn4748x5tffvg/1321277-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+      "link": "https://www.costco.com/old-trapper-beef-jerky%2c-peppered%2c-10-oz.product.100640299.html"
+    },
+    {
+      "title": "Kirkland Signature Roasted Almonds, Sea Salt, 2.5 lbs",
+      "price": "$10.99",
+      "details": "\n\t\t\n\t\t\tWhole Roasted Almonds with Sea Salt\n\t\t\n\t\t\t\n40 oz Bag\n\t\t\n\t\t\t\nKosher\n\t\t\n\t\t\t\nProduct of the USA\n\t\t\n\t",
+      "image": "https://cdn.bfldr.com/U447IH35/as/5b5hxwx3ct29hjzrbm32mb/1713786-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+      "link": "https://www.costco.com/kirkland-signature-roasted-almonds%2c-sea-salt%2c-2.5-lbs.product.4000237460.html"
+    },
+    {
+      "title": "Nonni’s Biscotti, Almond Dark Chocolate, 25-count",
+      "price": "$13.79",
+      "details": "\n\t\t\n\t\t\tKosher\n\t\t\n\t\t\t\nRoasted Almonds\n\t\t\n\t\t\t\nIndividually Wrapped\n\t\t\n\t\t\t\nPremium chocolate (55% Cocoa)\n\t\t\n\t\t\t\n25-Count\n\t\t\n\t",
+      "image": "https://cdn.bfldr.com/U447IH35/as/mjgchg39rr88fqnvfqwbwpg/1675745-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+      "link": "https://www.costco.com/nonni%e2%80%99s-biscotti%2c-almond-dark-chocolate%2c-25-count.product.4000026392.html"
+    },
+    {
+      "title": "No Sugar METABAR Chocolate Caramel and Peanut Flavor 12-count, 2-pack",
+      "price": "$42.99",
+      "details": "\n\t\t\n\t\t\t12 count - 2 pack\n\t\t\n\t\t\t \nGluten Free\n\t\t\n\t\t\t \nKosher\n\t\t\n\t\t\t \nKeto-Friendly\n\t\t\n\t\t\t \nNaturally sweetened with allulose\n\t\t\n\t",
+      "image": "https://cdn.bfldr.com/U447IH35/as/k8prm7tzjjvvsnfj6jmtt9ps/1733862-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+      "link": "https://www.costco.com/no-sugar-metabar-chocolate-caramel-and-peanut-flavor-12-count%2c-2-pack.product.4000152360.html"
+    },
+    {
+      "title": "Knott's Berry Farm Premium Shortbread Cookies, Raspberry, 2 oz, 36-count",
+      "price": "$12.99",
+      "details": "\n\t\t\n\t\t\tKosher\n\t\t\n\t\t\t\n0g Trans Fat Per Serving\n\t\t\n\t\t\t\n2 oz bag\n\t\t\n\t\t\t\n36-count\n\t\t\n\t\t\t\nNet Weight 4lb\n\t\t\n\t",
+      "image": "https://cdn.bfldr.com/U447IH35/as/66jh3zw3f6ckmf8h8kjkxz2z/1021622-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+      "link": "https://www.costco.com/knott's-berry-farm-premium-shortbread-cookies%2c-raspberry%2c-2-oz%2c-36-count.product.100577001.html"
+    },
+    {
+      "title": "Black Forest Stretch Island Fruit Strips, Variety Pack, 0.5 oz, 50-count",
+      "price": "$19.99",
+      "details": "\n\t\t\n\t\t\t0g Added Sugar\n\t\t\n\t\t\t\nMade with Fruit Puree Concentrate\n\t\t\n\t\t\t\nNon GMO\n\t\t\n\t\t\t\nGluten Free\n\t\t\n\t\t\t\nKosher\n\t\t\n\t",
+      "image": "https://cdn.bfldr.com/U447IH35/as/mv78pg28wrmrhnstvqh4p7qc/1699717-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+      "link": "https://www.costco.com/black-forest-stretch-island-fruit-strips%2c-variety-pack%2c-0.5-oz%2c-50-count.product.4000063837.html"
+    },
+    {
+      "title": "Entenmann's Little Bites Chocolate Chip Muffins, 1.65 oz, 20-Count",
+      "price": "$13.99",
+      "details": "\n\t\t\n\t\t\tNo High Fructose Corn Syrup\n\t\t\n\t\t\t\n0g Trans Fat\n\t\t\n\t\t\t\nMade with Real Chocolate\n\t\t\n\t\t\t\nKosher\n\t\t\n\t\t\t\n4 Muffins Per Pouch\n\t\t\n\t",
+      "image": "https://cdn.bfldr.com/U447IH35/as/t97xr6kvrpm8hk8nvzsfps/186747-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+      "link": "https://www.costco.com/entenmann's-little-bites-chocolate-chip-muffins%2c-1.65-oz%2c-20-count.product.100578629.html"
+    },
+    {
+      "title": "Paradise Green Premium Dried Mango Slices, 3.5 oz, 8-count",
+      "price": "$13.49",
+      "details": "\n\t\t\n\t\t\tHigh In Calcium\n\t\t\n\t\t\t\nGood Source of Vitamin C\n\t\t\n\t\t\t\nDeliciously Sweet\n\t\t\n\t\t\t\nNon GMO\n\t\t\n\t\t\t\nGluten free\n\t\t\n\t",
+      "image": "https://cdn.bfldr.com/U447IH35/as/prtrhtvqwm3b3kqsgg4s8b9/1550219-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+      "link": "https://www.costco.com/paradise-green-premium-dried-mango-slices%2c-3.5-oz%2c-8-count.product.100760461.html"
+    },
+    {
+      "title": "Old Trapper Beef Jerky, Old Fashioned, 10 oz",
+      "price": "$12.99",
+      "details": "\n\t\t\n\t\t\tBeef jerky\n\t\t\n\t\t\t\nOld fashioned\n\t\t\n\t\t\t\nNaturally smoked\n\t\t\n\t\t\t\n10 oz resealable bag\n\t\t\n\t",
+      "image": "",
+      "link": "https://www.costco.com/old-trapper-beef-jerky%2c-old-fashioned%2c-10-oz.product.100640327.html"
+    },
+    {
+      "title": "Old Trapper Beef Jerky, Hot & Spicy, 10 oz",
+      "price": "$12.99",
+      "details": "\n\t\t\n\t\t\tBeef jerky\n\t\t\n\t\t\t\nHot & Spicy\n\t\t\n\t\t\t\nNaturally smoked\n\t\t\n\t\t\t\n10 oz resealable bag\n\t\t\n\t",
+      "image": "",
+      "link": "https://www.costco.com/old-trapper-beef-jerky%2c-hot-%2526-spicy%2c-10-oz.product.100642943.html"
+    },
+    {
+      "title": "Made in Nature USDA Organic Goji Berries 20 oz 2-pack",
+      "price": "$39.99",
+      "details": "\n\t\t\n\t\t\t20 oz, 2 pack\n\t\t\n\t\t\t\nUSDA Organic\n\t\t\n\t\t\t\nNon-GMO Project Verified\n\t\t\n\t\t\t\nGluten Free\n\t\t\n\t",
+      "image": "",
+      "link": "https://www.costco.com/made-in-nature-usda-organic-goji-berries-20-oz-2-pack.product.100497523.html"
+    },
+    {
+      "title": "Pringles Potato Chips, Sour Cream & Onion, 5.57 oz, 14-count",
+      "price": "$36.99",
+      "details": "\n\t\t\n\t\t\tPringles Chips\n\t\t\n\t\t\t\nPackaged For Resale\n\t\t\n\t\t\t\n14 Count\n\t\t\n\t\t\t\nNet Weight 77.98 oz\n\t\t\n\t",
+      "image": "",
+      "link": "https://www.costco.com/pringles-potato-chips%2c-sour-cream-%2526-onion%2c-5.57-oz%2c-14-count.product.100409589.html"
+    },
+    {
+      "title": "Bon Appetit, Cheese Coffee Bar Cake, 4 oz, 8-Count",
+      "price": "$14.99",
+      "details": "\n\t\t\n\t\t\tCheese Coffee Bar Cake\n\t\t\n\t\t\t\nIndividually Wrapped for Resale\n\t\t\n\t\t\t\n4 oz Package\n\t\t\n\t\t\t\n8-Count\n\t\t\n\t",
+      "image": "",
+      "link": "https://www.costco.com/bon-appetit%2c-cheese-coffee-bar-cake%2c-4-oz%2c-8-count.product.100663998.html"
+    },
+    {
+      "title": "Ocean Spray, Craisins Whole Dried Cranberries, 64 oz",
+      "price": "$11.99",
+      "details": "\n\t\t\n\t\t\tNon-GMO\n\t\t\n\t\t\t\nSweetened Dried Whole Cranberries\n\t\t\n\t\t\t\nNo Artificial Flavors\n\t\t\n\t\t\t\nNo Preservatives\n\t\t\n\t\t\t\nResealable Bag\n\t\t\n\t",
+      "image": "",
+      "link": "https://www.costco.com/ocean-spray%2c-craisins-whole-dried-cranberries%2c-64-oz.product.100400518.html"
+    },
+    {
+      "title": "Honey Mama's Cocoa Truffle Bars, 2.5 oz, Chocolate Cake 12-ct",
+      "price": "$49.99",
+      "details": "\n\t\t\n\t\t\t12 Multi-Serve Bars per Package\n\t\t\n\t\t\t\n3 Servings per Bar\n\t\t\n\t\t\t\nNo Dairy, Gluten, or Soy\n\t\t\n\t\t\t\nNo Preservatives or Additives\n\t\t\n\t\t\t\nShips Refrigerated and Requires Refrigeration Upon Receipt\n\t\t\n\t",
+      "image": "",
+      "link": "https://www.costco.com/honey-mama's-cocoa-truffle-bars%2c-2.5-oz%2c-chocolate-cake-12-ct.product.4000236982.html"
+    },
+    {
+      "title": "Kar's Trail Mix, Sweet 'N Salty, 2 oz, 24-count",
+      "price": "$12.99",
+      "details": "\n\t\t\n\t\t\tSweet 'N Salty Mix\n\t\t\n\t\t\t\nGluten Free\n\t\t\n\t\t\t\nKosher\n\t\t\n\t\t\t\n2 oz individual bags\n\t\t\n\t\t\t\n48 oz. Total Net Weight\n\t\t\n\t",
+      "image": "",
+      "link": "https://www.costco.com/kar's-trail-mix%2c-sweet-'n-salty%2c-2-oz%2c-24-count.product.100409506.html"
+    },
+    {
+      "title": "Jack Link's Beef Jerky, Teriyaki, 3.25 oz, 3-count",
+      "price": "$16.99",
+      "details": "\n\t\t\n\t\t\t11g Protein per serving\n\t\t\n\t\t\t\n80 Calories\n\t\t\n\t\t\t\nMade with Premium Beef\n\t\t\n\t\t\t\nNo Added MSG\n\t\t\n\t\t\t\n96% Fat Free\n\t\t\n\t",
+      "image": "",
+      "link": "https://www.costco.com/jack-link's-beef-jerky%2c-teriyaki%2c-3.25-oz%2c-3-count.product.100438509.html"
+    },
+    {
+      "title": "Wonderful Pistachios, Salt & Pepper, 3 lbs",
+      "price": "$19.99",
+      "details": "\n\t\t\n\t\t\tKosher (Circle U)\n\t\t\n\t\t\t\nGluten free\n\t\t\n\t\t\t\nNon-GMO\n\t\t\n\t\t\t\nSalt & Pepper\n\t\t\n\t",
+      "image": "",
+      "link": "https://www.costco.com/wonderful-pistachios%2c-salt-%2526-pepper%2c-3-lbs.product.100397092.html"
+    },
+    {
+      "title": "The Worthy Crumb, Mini Muffins, Chocolate Chip, 2.6 oz, 16 Count",
+      "price": "$14.99",
+      "details": "\n\t\t\n\t\t\tKosher\n\t\t\n\t\t\t\nIndividually Wrapped\n\t\t\n\t\t\t\nNo Artificial Flavors or Colors\n\t\t\n\t\t\t\nLabeled for Resale\n\t\t\n\t\t\t\n16-Count\n\t\t\n\t",
+      "image": "",
+      "link": "https://www.costco.com/the-worthy-crumb%2c-mini-muffins%2c-chocolate-chip%2c-2.6-oz%2c-16-count.product.100640971.html"
+    },
+    {
+      "title": "Jack Link's Beef Jerky, Original, 3.25 oz, 3-count",
+      "price": "$16.99",
+      "details": "\n\t\t\n\t\t\tBeef jerky\n\t\t\n\t\t\t\nOriginal\n\t\t\n\t\t\t\n80 Calories\n\t\t\n\t\t\t\nMade with Premium Beef\n\t\t\n\t\t\t\n96% Fat Free\n\t\t\n\t",
+      "image": "",
+      "link": "https://www.costco.com/jack-link's-beef-jerky%2c-original%2c-3.25-oz%2c-3-count.product.100438385.html"
+    }
+  ],
+  "https://www.costco.com/snacks.html?currentPage=8": [
+    {
+      "title": "Nilla Wafers Cookies, 15 oz, 2 Count",
+      "price": "$9.49",
+      "details": "\n\t\t\n\t\t\tVanilla Cookies\n\t\t\n\t\t\t\n2 Stay Fresh Packs\n\t\t\n\t\t\t\nTrans Fat 0g per serving\n\t\t\n\t\t\t\nKosher Dairy\n\t\t\n\t\t\t\nNet Weight: 30 oz.\n\t\t\n\t",
+      "image": "https://cdn.bfldr.com/U447IH35/as/j45b9t99jccpvtmn528/739599-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+      "link": "https://www.costco.com/nilla-wafers-cookies%2c-15-oz%2c-2-count.product.100403325.html"
+    },
+    {
+      "title": "Jack Link's Beef Jerky, Variety Pack, 1.25 oz, 9-count",
+      "price": "$19.99",
+      "details": "\n\t\t\n\t\t\tVariety pack: 5-Original, 4-Teriyaki\n\t\t\n\t\t\t\nMade with 100% Beef\n\t\t\n\t\t\t\nNo Added MSG\n\t\t\n\t\t\t\n13g Protein per Serving\n\t\t\n\t\t\t\n100 Calories per Serving\n\t\t\n\t",
+      "image": "https://cdn.bfldr.com/U447IH35/as/jrs5f5b6r3nkx5r95h3qhfxm/769196-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+      "link": "https://www.costco.com/jack-link's-beef-jerky%2c-variety-pack%2c-1.25-oz%2c-9-count.product.100401636.html"
+    },
+    {
+      "title": "Cheez-It Crackers, Cheddar, 1.5 oz, 45-count",
+      "price": "$17.99",
+      "details": "\n\t\t\n\t\t\tKosher (Circle K) D\n\t\t\n\t\t\t\nOriginal Flavor\n\t\t\n\t\t\t\nMade with 100% Real Cheese\n\t\t\n\t\t\t\n67.5 oz. Total net weight\n\t\t\n\t\t\t\nBaked Snack Crackers\n\t\t\n\t",
+      "image": "https://cdn.bfldr.com/U447IH35/as/s5qm7bsrj8hms7493tcj5bh/663439-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+      "link": "https://www.costco.com/cheez-it-crackers%2c-cheddar%2c-1.5-oz%2c-45-count.product.100381489.html"
+    },
+    {
+      "title": "Made in Nature Organic Berry Fusion 24 oz, 2-pack",
+      "price": "$39.99",
+      "details": "\n\t\t\n\t\t\tDried and Unsulfured\n\t\t\n\t\t\tGluten Free\n\t\t\n\t\t\t Non GMO\n\t\t\n\t",
+      "image": "https://cdn.bfldr.com/U447IH35/as/sz2wpwxk7frqtggxnvg8zh/668543-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+      "link": "https://www.costco.com/made-in-nature-organic-berry-fusion-24-oz%2c-2-pack.product.100163336.html"
+    },
+    {
+      "title": "Doritos Tortilla Chips, Cool Ranch, 1.75 oz, 64-count",
+      "price": "$44.99",
+      "details": "\n\t\t\n\t\t\tDoritos chips\n\t\t\n\t\t\t\nCool Ranch\n\t\t\n\t\t\t\n1.75 oz bag\n\t\t\n\t\t\t\n64-count\n\t\t\n\t\t\t\nNet Weight 112 oz\n\t\t\n\t",
+      "image": "https://cdn.bfldr.com/U447IH35/as/s9sm39bckk49h62jnpn6qjc7/320881-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+      "link": "https://www.costco.com/doritos-tortilla-chips%2c-cool-ranch%2c-1.75-oz%2c-64-count.product.100576515.html"
+    },
+    {
+      "title": "Pacific Gold Original Beef Jerky, 1.25 oz, 12-count",
+      "price": "$21.99",
+      "details": "\n\t\t\n\t\t\tGluten Free\n\t\t\n\t\t\t\nHigh in Protein\n\t\t\n\t\t\t\n97% Fat Free\n\t\t\n\t\t\t\nNo Nitrates Added\n\t\t\n\t",
+      "image": "https://cdn.bfldr.com/U447IH35/as/2gjmvrschckh7jx9kfgq/534727-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+      "link": "https://www.costco.com/pacific-gold-original-beef-jerky%2c-1.25-oz%2c-12-count.product.100390608.html"
+    },
+    {
+      "title": "Nature's Bakery Fig Bar, Variety Pack, 2 oz, 40-count",
+      "price": "$19.99",
+      "details": "\n\t\t\n\t\t\tVariety pack\n\t\t\n\t\t\t\n20 - Blueberry\n\t\t\n\t\t\t\n20 - Raspberry\n\t\t\n\t\t\t\nStone ground whole wheat with assorted flavor fillings\n\t\t\n\t\t\t\n2 oz. twin pack\n\t\t\n\t",
+      "image": "https://cdn.bfldr.com/U447IH35/as/b6nz9gbpwsrm7hr4prgnf2q/1618252-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+      "link": "https://www.costco.com/nature's-bakery-fig-bar%2c-variety-pack%2c-2-oz%2c-40-count.product.100825666.html"
+    },
+    {
+      "title": "Universal Bakery, Belgian Waffles, Strawberry, 1.9 oz, 12-Count",
+      "price": "$10.99",
+      "details": "\n\t\t\n\t\t\tMade in California\n\t\t\n\t\t\t\nIndividually wrapped\n\t\t\n\t\t\t\nFreezer Friendly\n\t\t\n\t\t\t\n12-Count\n\t\t\n\t\t\t\nNet Weight 23oz\n\t\t\n\t",
+      "image": "https://cdn.bfldr.com/U447IH35/as/pwjm6wbrtm5wgnkzkj48nbrk/1622273-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+      "link": "https://www.costco.com/universal-bakery%2c-belgian-waffles%2c-strawberry%2c-1.9-oz%2c-12-count.product.100828940.html"
+    },
+    {
+      "title": "Pacific Gold Beef Jerky, Variety Pack, 15 oz, 12-count",
+      "price": "$21.99",
+      "details": "\n\t\t\n\t\t\tGluten Free\n\t\t\n\t\t\t\n97% Fat Free\n\t\t\n\t\t\t\nHigh in Protein\n\t\t\n\t\t\t\nAll Natural\n\t\t\n\t\t\t\nNo Artificial Ingredients, Preservatives, MSG\n\t\t\n\t",
+      "image": "https://cdn.bfldr.com/U447IH35/as/qzttw4fncg7k5tfgfr3n3bvr/572377-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+      "link": "https://www.costco.com/pacific-gold-beef-jerky%2c-variety-pack%2c-15-oz%2c-12-count.product.100390919.html"
+    },
+    {
+      "title": "Takis, Rolled Tortilla Chips, Fuego, 1 oz, 50-count",
+      "price": "$21.99",
+      "details": "\n\t\t\n\t\t\tFuego\n\t\t\n\t\t\t\nHot Chili Pepper & Lime\n\t\t\n\t\t\t\n1 oz bag, 50 count\n\t\t\n\t\t\t\nArtificially Flavored\n\t\t\n\t",
+      "image": "https://cdn.bfldr.com/U447IH35/as/8n45msk56xq6q48pv32j8n8s/1782493-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+      "link": "https://www.costco.com/takis%2c-rolled-tortilla-chips%2c-fuego%2c-1-oz%2c-50-count.product.4000227079.html"
+    },
+    {
+      "title": "Wonderful In-Shell Pistachio Nuts, 1.5 oz, 24-count",
+      "price": "$17.99",
+      "details": "\n\t\t\n\t\t\tNon-GMO Project Verified\n\t\t\n\t\t\t\nKosher Certified\n\t\t\n\t\t\t\nHalal Certified\n\t\t\n\t\t\t\nGluten Free\n\t\t\n\t\t\t\nTotal Net Weight 1.5 oz\n\t\t\n\t",
+      "image": "https://cdn.bfldr.com/U447IH35/as/688b6x89s33jhs9trpfr3srn/501690-inc__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+      "link": "https://www.costco.com/wonderful-in-shell-pistachio-nuts%2c-1.5-oz%2c-24-count.product.100381497.html"
+    },
+    {
+      "title": "Kam Yen Jan Chinese Style Sausage, 21 oz., 2-count",
+      "price": "$15.99",
+      "details": "\n\t\t\n\t\t\tRefrigerate after opening\n\t\t\n\t\t\t\nCook well before serving\n\t\t\n\t\t\t\nProduct of USA\n\t\t\n\t\t\t\n2-count\n\t\t\n\t\t\t\n21 oz.\n\t\t\n\t",
+      "image": "https://cdn.bfldr.com/U447IH35/as/j6tjf7m77rpk97fh7wr98q/473590-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+      "link": "https://www.costco.com/kam-yen-jan-chinese-style-sausage%2c-21-oz.%2c-2-count.product.100444318.html"
+    },
+    {
+      "title": "Lay's Potato Chips, Classic, 1.5 oz, 64-count",
+      "price": "$49.99",
+      "details": "\n\t\t\n\t\t\tClassic\n\t\t\n\t\t\t\nKosher\n\t\t\n\t\t\t\n1.5 oz Bag\n\t\t\n\t\t\t\n64 count\n\t\t\n\t",
+      "image": "",
+      "link": "https://www.costco.com/lay's-potato-chips%2c-classic%2c-1.5-oz%2c-64-count.product.100846349.html"
+    },
+    {
+      "title": "Kirkland Signature Organic Animal Crackers, 4 lbs",
+      "price": "$13.49",
+      "details": "\n\t\t\n\t\t\tKosher\n\t\t\n\t\t\t\nUSDA Certified Organic\n\t\t\n\t\t\t\n64 oz Container\n\t\t\n\t\t\t\nPacked In The USA\n\t\t\n\t",
+      "image": "",
+      "link": "https://www.costco.com/kirkland-signature-organic-animal-crackers%2c-4-lbs.product.100334838.html"
+    },
+    {
+      "title": "Old Trapper Beef Jerky, Teriyaki, 10 oz",
+      "price": "$12.99",
+      "details": "\n\t\t\n\t\t\tMade in the USA\n\t\t\n\t\t\t\n10 oz\n\t\t\n\t",
+      "image": "",
+      "link": "https://www.costco.com/old-trapper-beef-jerky%2c-teriyaki%2c-10-oz.product.100640300.html"
+    },
+    {
+      "title": "Go Raw Sprouted Organic Pumpkin Seeds with Sea Salt, 22 oz",
+      "price": "$11.99",
+      "details": "\n\t\t\n\t\t\tGluten-Free\n\t\t\n\t\t\t\nKosher\n\t\t\n\t\t\t\nVegan\n\t\t\n\t\t\t\nUSDA Organic\n\t\t\n\t\t\t\nNon-GMO\n\t\t\n\t",
+      "image": "",
+      "link": "https://www.costco.com/go-raw-sprouted-organic-pumpkin-seeds-with-sea-salt%2c-22-oz.product.100698498.html"
+    },
+    {
+      "title": "Bobo's Oat Bites, Variety Pack, 1.3 oz, 24-count",
+      "price": "$15.99",
+      "details": "\n\t\t\n\t\t\tOat Bites With Fruit Filling\n\t\t\n\t\t\t\nVegan\n\t\t\n\t\t\t\nDairy free\n\t\t\n\t\t\t\nSoy free\n\t\t\n\t\t\t\nGluten free\n\t\t\n\t",
+      "image": "",
+      "link": "https://www.costco.com/bobo's-oat-bites%2c-variety-pack%2c-1.3-oz%2c-24-count.product.100650088.html"
+    },
+    {
+      "title": "Cheez-It Crackers, Cheddar, 3 lbs",
+      "price": "$12.99",
+      "details": "\n\t\t\n\t\t\tKosher\n\t\t\n\t\t\t\nBaked Cheddar Crackers\n\t\t\n\t\t\t\nMade with 100% Real Cheese\n\t\t\n\t\t\t\n2 Bags per Box\n\t\t\n\t\t\t\nTwo 24oz. Bags\n\t\t\n\t",
+      "image": "",
+      "link": "https://www.costco.com/cheez-it-crackers%2c-cheddar%2c-3-lbs.product.100113305.html"
+    },
+    {
+      "title": "No Sugar Shellz Dark Chocolatey Caramel Pecan 25-count, 2-pack",
+      "price": "$42.99",
+      "details": "\n\t\t\n\t\t\t25 count, 2 Pack\n\t\t\n\t\t\t \nNo Sugar\n\t\t\n\t\t\t \nGluten-Free\n\t\t\n\t",
+      "image": "",
+      "link": "https://www.costco.com/no-sugar-shellz-dark-chocolatey-caramel-pecan-25-count%2c-2-pack.product.4000152358.html"
+    },
+    {
+      "title": "Pepperidge Farm Goldfish Crackers, Cheddar, 1 oz, 45-count",
+      "price": "$14.99",
+      "details": "\n\t\t\n\t\t\tBaked Snack Goldfish Crackers\n\t\t\n\t\t\t\nCheddar\n\t\t\n\t\t\t\n45-count\n\t\t\n\t\t\t\n1 oz. bag\n\t\t\n\t\t\t\n100 % real cheddar\n\t\t\n\t",
+      "image": "",
+      "link": "https://www.costco.com/pepperidge-farm-goldfish-crackers%2c-cheddar%2c-1-oz%2c-45-count.product.100371248.html"
+    },
+    {
+      "title": "Dot's Homestyle Pretzels, Original Seasoned Pretzel Twists, 1 oz, 36-count",
+      "price": "$17.99",
+      "details": "\n\t\t\n\t\t\tOriginal\n\t\t\n\t\t\t\n1 oz Bags\n\t\t\n\t\t\t\n36 Total Bags\n\t\t\n\t",
+      "image": "",
+      "link": "https://www.costco.com/dot's-homestyle-pretzels%2c-original-seasoned-pretzel-twists%2c-1-oz%2c-36-count.product.4000254100.html"
+    },
+    {
+      "title": "Takis, Rolled Tortilla Chips, Fuego, 3.25 oz, 40-count",
+      "price": "$62.99",
+      "details": "\n\t\t\n\t\t\tFuego\n\t\t\n\t\t\t\nHot Chili Pepper & Lime\n\t\t\n\t\t\t\n3.25 oz bag, 40 count\n\t\t\n\t\t\t\nArtificially Flavored\n\t\t\n\t",
+      "image": "",
+      "link": "https://www.costco.com/takis%2c-rolled-tortilla-chips%2c-fuego%2c-3.25-oz%2c-40-count.product.4000180914.html"
+    },
+    {
+      "title": "Honey Mama's Greatest Hits Truffle Bars, 2.5 oz, 12-ct",
+      "price": "$49.99",
+      "details": "\n\t\t\n\t\t\t12 Multi-Serve Bars per Package in 6 Flavors\n\t\t\n\t\t\t \n3 Servings per Bar\n\t\t\n\t\t\t\nNo Dairy, Gluten, or Soy\n\t\t\n\t\t\t\nNo Preservatives or Additives\n\t\t\n\t\t\t\nShips Refrigerated and Requires Refrigeration Upon Receipt\n\t\t\n\t",
+      "image": "",
+      "link": "https://www.costco.com/honey-mama's-greatest-hits-truffle-bars%2c-2.5-oz%2c-12-ct.product.4000237012.html"
+    },
+    {
+      "title": "Kirkland Signature Fancy Whole Cashews, Unsalted, 2.5 lbs",
+      "price": "$14.99",
+      "details": "\n\t\t\n\t\t\tPerfect for Snacking or Baking\n\t\t\n\t\t\tPacked with Flavor\n\t\t\n\t\t\tResealable Pouch for Freshness\n\t\t\n\t",
+      "image": "",
+      "link": "https://www.costco.com/kirkland-signature-fancy-whole-cashews%2c-unsalted%2c-2.5-lbs.product.4000043019.html"
+    }
+  ],
+  "https://www.costco.com/snacks.html?currentPage=9": [
+    {
+      "title": "Blue Diamond Almonds, Smokehouse, 45 oz",
+      "price": "$17.99",
+      "details": "\n\t\t\n\t\t\tKosher\n\t\t\n\t\t\t\n45 oz. Resealable Bag Smokehouse Almonds\n\t\t\n\t\t\t\n2g Net Carbs per serving\n\t\t\n\t\t\t\nPackaged in the USA\n\t\t\n\t",
+      "image": "https://cdn.bfldr.com/U447IH35/as/kckstb7zn77vbfc8xbwcn8n8/1140498-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+      "link": "https://www.costco.com/blue-diamond-almonds%2c-smokehouse%2c-45-oz.product.100368188.html"
+    },
+    {
+      "title": "Lay's Potato Chips, Classic, 1 oz, 50-count",
+      "price": "$22.99",
+      "details": "\n\t\t\n\t\t\tKosher\n\t\t\n\t\t\t\nGluten Free\n\t\t\n\t\t\t\nLactose Free\n\t\t\n\t\t\t\nMSG Free\n\t\t\n\t\t\t\n50 oz. Total Net Weight\n\t\t\n\t",
+      "image": "https://cdn.bfldr.com/U447IH35/as/5b8q69gwcw3bk9s53sqmmg26/874508-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+      "link": "https://www.costco.com/lay's-potato-chips%2c-classic%2c-1-oz%2c-50-count.product.100401634.html"
+    },
+    {
+      "title": "Second Nature Trail Mix, Wholesome Medley, 1.5 oz, 16-count",
+      "price": "$14.99",
+      "details": "\n\t\t\n\t\t\tKosher (Circle U)D\n\t\t\n\t\t\t\nGluten free\n\t\t\n\t\t\t\nNon GMO\n\t\t\n\t\t\t\nLow in sodium\n\t\t\n\t\t\t\n5g protein per pack\n\t\t\n\t",
+      "image": "https://cdn.bfldr.com/U447IH35/as/xgtv4w95ttb4mnrvxvmjs8/1210495-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+      "link": "https://www.costco.com/second-nature-trail-mix%2c-wholesome-medley%2c-1.5-oz%2c-16-count.product.100459944.html"
+    },
+    {
+      "title": "Kirkland Signature Organic Whole Cashews, Unsalted, Unroasted, 2.5 lbs",
+      "price": "$16.99",
+      "details": "\n\t\t\n\t\t\tWhole Cashews\n\t\t\n\t\t\t\nUnsalted and Unroasted\n\t\t\n\t\t\t\nUSDA Organic\n\t\t\n\t\t\t\nKosher\n\t\t\n\t\t\t\n40 oz Resealable Pouch\n\t\t\n\t",
+      "image": "https://cdn.bfldr.com/U447IH35/as/rh68n3sh6b8psg35mhgh3tc/1617506-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+      "link": "https://www.costco.com/kirkland-signature-organic-whole-cashews%2c-unsalted%2c-unroasted%2c-2.5-lbs.product.4000064056.html"
+    },
+    {
+      "title": "Fruit Roll-Ups, Variety Pack, 72-count",
+      "price": "$17.49",
+      "details": "\n\t\t\n\t\t\tVariety Pack\n\t\t\n\t\t\t\n1  Box with 72 Rolls\n\t\t\n\t\t\t\nFlavored with Other Natural Flavors\n\t\t\n\t\t\t\nGelatin and Gluten Free\n\t\t\n\t",
+      "image": "https://cdn.bfldr.com/U447IH35/as/8pfpr7jc9f5n9jsj279bmhk/675989-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+      "link": "https://www.costco.com/fruit-roll-ups%2c-variety-pack%2c-72-count.product.100626794.html"
+    },
+    {
+      "title": "Blue Diamond Almonds, Whole Natural, 1.5 oz, 12-count",
+      "price": "$11.49",
+      "details": "\n\t\t\n\t\t\tWhole Natural Almonds\n\t\t\n\t\t\t\n12-count\n\t\t\n\t\t\t\n1.5 oz tube\n\t\t\n\t\t\t\n18 oz. Total Net Weight\n\t\t\n\t",
+      "image": "https://cdn.bfldr.com/U447IH35/as/s6q8fzj5gvq46fbnkkfk83cn/5658-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+      "link": "https://www.costco.com/blue-diamond-almonds%2c-whole-natural%2c-1.5-oz%2c-12-count.product.100409512.html"
+    },
+    {
+      "title": "Mary Macleod's Gluten Free Shortbread Cookies Mixed Assortment 8-Pack",
+      "price": "$49.99",
+      "details": "\n\t\t\n\t\t\tGluten Free Chocolate Crunch Shortbread 4-boxes\n\t\t\n\t\t\t\nGluten Free The Classic Shortbread - 4 boxes\n\t\t\n\t",
+      "image": "https://cdn.bfldr.com/U447IH35/as/7f2hrvhxk48k3ffqqbxj5hf9/1593720-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+      "link": "https://www.costco.com/mary-macleod's-gluten-free-shortbread-cookies-mixed-assortment-8-pack.product.100799668.html"
+    },
+    {
+      "title": "Honey Mama's Classic Variety Truffle Bars, 2.5 oz, 12-ct",
+      "price": "$49.99",
+      "details": "\n\t\t\n\t\t\t12 Multi-Serve Bars per Package in 2 Flavors\n\t\t\n\t\t\t\n3 Servings per Bar\n\t\t\n\t\t\t\nNo Dairy, Gluten, or Soy\n\t\t\n\t\t\t\nNo Preservatives or Additives\n\t\t\n\t\t\t\nShips Refrigerated and Requires Refrigeration Upon Receipt\n\t\t\n\t",
+      "image": "https://cdn.bfldr.com/U447IH35/as/wgc62ps38j7sjjj8cprmpnf/1797307-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+      "link": "https://www.costco.com/honey-mama's-classic-variety-truffle-bars%2c-2.5-oz%2c-12-ct.product.4000236989.html"
+    },
+    {
+      "title": "Ritz Crackers, 61.65 oz, 18 count",
+      "price": "$12.49",
+      "details": "\n\t\t\n\t\t\tKosher\n\t\t\n\t\t\t\nCrackers\n\t\t\n\t\t\t\nOriginal\n\t\t\n\t\t\t\n18-Count\n\t\t\n\t\t\t\nTotal Net Weight: 61.65 oz\n\t\t\n\t",
+      "image": "https://cdn.bfldr.com/U447IH35/as/fvwgc6hf6f7k94qpw6khsc3/142354-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+      "link": "https://www.costco.com/ritz-crackers%2c-61.65-oz%2c-18-count.product.100369040.html"
+    },
+    {
+      "title": "Nutella & GO! Hazelnut and Cocoa Spread With Breadsticks, 1.8 oz, 16 Pack",
+      "price": "$19.99",
+      "details": "\n\t\t\n\t\t\t16 single-serve Nutella & GO! packs\n\t\t\n\t\t\t\n1.8 ounces each\n\t\t\n\t\t\t\nHazelnut spread & breadsticks\n\t\t\n\t\t\t\nGreat for on-the-go snacking\n\t\t\n\t\t\t\n23 g of sugars per 1 unit\n\t\t\n\t",
+      "image": "https://cdn.bfldr.com/U447IH35/as/35mskbfrnxsgs9bv75vtknt/1218715-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+      "link": "https://www.costco.com/nutella-%2526-go!-hazelnut-and-cocoa-spread-with-breadsticks%2c-1.8-oz%2c-16-pack.product.100401345.html"
+    },
+    {
+      "title": "Newtons Fig Cookies, 2 oz, 24-count",
+      "price": "$12.99",
+      "details": "\n\t\t\n\t\t\tMade with Real Fruit\n\t\t\n\t\t\t\nKosher (Circle U)\n\t\t\n\t\t\t\nDairy Free\n\t\t\n\t\t\t\nNo High Fructose Corn Syrup\n\t\t\n\t\t\t\n48 oz. Total Net Weight\n\t\t\n\t",
+      "image": "https://cdn.bfldr.com/U447IH35/as/3tchk4frthc9nqpwgr7rrr6/767083-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+      "link": "https://www.costco.com/newtons-fig-cookies%2c-2-oz%2c-24-count.product.100415929.html"
+    },
+    {
+      "title": "Pringles Potato Chips, Original, 0.67 oz, 60-count",
+      "price": "$24.99",
+      "details": "\n\t\t\n\t\t\tOriginal\n\t\t\n\t\t\t\nBursting with flavor\n\t\t\n\t\t\t\nGreat for lunches\n\t\t\n\t\t\t\n40.2 oz. Total Net Weight\n\t\t\n\t",
+      "image": "https://cdn.bfldr.com/U447IH35/as/gnc23w45shnw9jvm3pc77h3/1055688-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+      "link": "https://www.costco.com/pringles-potato-chips%2c-original%2c-0.67-oz%2c-60-count.product.100381411.html"
+    },
+    {
+      "title": "RITZ Crackers, Original, 0.68 oz, 45-count",
+      "price": "$13.69",
+      "details": "\n\t\t\n\t\t\tOriginal\n\t\t\n\t\t\t\n6 crackers per pack\n\t\t\n\t\t\t\n0.68 oz portion pack\n\t\t\n\t\t\t\n45 count\n\t\t\n\t\t\t\nNet weight 14.6 oz\n\t\t\n\t",
+      "image": "",
+      "link": "https://www.costco.com/ritz-crackers%2c-original%2c-0.68-oz%2c-45-count.product.4000135317.html"
+    },
+    {
+      "title": "Lay's Potato Chips, Barbecue, 1.5 oz, 64-count",
+      "price": "$49.99",
+      "details": "\n\t\t\n\t\t\tBarbecue\n\t\t\n\t\t\t\nKosher\n\t\t\n\t\t\t\n1.5 oz Bag\n\t\t\n\t\t\t\n64 count\n\t\t\n\t",
+      "image": "",
+      "link": "https://www.costco.com/lay's-potato-chips%2c-barbecue%2c-1.5-oz%2c-64-count.product.100539770.html"
+    },
+    {
+      "title": "Premium Saltine Crackers, Original, 4 oz, 12-Count",
+      "price": "$8.49",
+      "details": "\n\t\t\n\t\t\t12 Sleeves\n\t\t\n\t\t\t\nTopped with Coarse Sea Salt\n\t\t\n\t\t\t\nKosher Dairy\n\t\t\n\t\t\t\nNo Cholesterol and Low Saturated Fat\n\t\t\n\t\t\t\n48 oz Box\n\t\t\n\t",
+      "image": "",
+      "link": "https://www.costco.com/premium-saltine-crackers%2c-original%2c-4-oz%2c-12-count.product.100381603.html"
+    },
+    {
+      "title": "Hawaiian Kettle Style Island Variety Potato Chips, 1.5 oz, 30-count",
+      "price": "$15.99",
+      "details": "\n\t\t\n\t\t\tHawaiian kettle chips\n\t\t\n\t\t\t\n1.5 oz Bag\n\t\t\n\t\t\t\n30-count\n\t\t\n\t\t\t\nTotal Net Weight: 45 oz\n\t\t\n\t",
+      "image": "",
+      "link": "https://www.costco.com/hawaiian-kettle-style-island-variety-potato-chips%2c-1.5-oz%2c-30-count.product.100381546.html"
+    },
+    {
+      "title": "Pringles Potato Chips, Original, 5.26 oz, 14-count",
+      "price": "$36.99",
+      "details": "\n\t\t\n\t\t\tPringles Chips\n\t\t\n\t\t\t\nPackaged for Resale\n\t\t\n\t\t\t\n14 Count\n\t\t\n\t\t\t\nNet Weight 73.64 oz\n\t\t\n\t",
+      "image": "",
+      "link": "https://www.costco.com/pringles-potato-chips%2c-original%2c-5.26-oz%2c-14-count.product.100409444.html"
+    },
+    {
+      "title": "Meiji Hello Panda Chocolate Creme Filled Cookies, 0.75 oz, 32-count",
+      "price": "$11.99",
+      "details": "\n\t\t\n\t\t\tKosher\n\t\t\n\t\t\t\nCreme Center With Crunchy Shell\n\t\t\n\t\t\t\nMade In USA\n\t\t\n\t\t\t\nTotal Net Weight: 24 oz\n\t\t\n\t",
+      "image": "",
+      "link": "https://www.costco.com/meiji-hello-panda-chocolate-creme-filled-cookies%2c-0.75-oz%2c-32-count.product.100368214.html"
+    },
+    {
+      "title": "Welch's Fruit Snacks, Variety Pack, 2.25 oz, 20-count",
+      "price": "$14.99",
+      "details": "\n\t\t\n\t\t\tGluten free\n\t\t\n\t\t\t\nFat free\n\t\t\n\t\t\t\nNo preservatives\n\t\t\n\t\t\t\nMade with Real Fruit\n\t\t\n\t\t\t\nExcellent Source of Vitamin A, C and E\n\t\t\n\t",
+      "image": "",
+      "link": "https://www.costco.com/welch's-fruit-snacks%2c-variety-pack%2c-2.25-oz%2c-20-count.product.4000031733.html"
+    },
+    {
+      "title": "Sun-Maid, Raisins, 2.25 lbs, 2-Count",
+      "price": "$12.49",
+      "details": "\n\t\t\n\t\t\tNatural California Raisins\n\t\t\n\t\t\t\nNo Sugar Added\n\t\t\n\t\t\t\nKosher\n\t\t\n\t\t\t\nResealable Zipper Bag\n\t\t\n\t\t\t\nNet Weight 4.5 lbs.\n\t\t\n\t",
+      "image": "",
+      "link": "https://www.costco.com/sun-maid%2c-raisins%2c-2.25-lbs%2c-2-count.product.100381615.html"
+    },
+    {
+      "title": "Wheat Thins Original Wheat Crackers, 40 oz",
+      "price": "$10.99",
+      "details": "\n\t\t\n\t\t\tBaked crackers, crunchy texture, nutty wheat flavor  \n\n\t\t\n\t\t\t20 oz Stay Fresh Pack      \n\n\t\t\n\t\t\tNo artificial flavor or colors, 21g of whole grains per serving   \n\n\t\t\n\t\t\tAlways Toasted, Never Fried\n\n\t\t\n\t\t\t0g Trans Fat per Serving\n\t\t\n\t",
+      "image": "",
+      "link": "https://www.costco.com/wheat-thins-original-wheat-crackers%2c-40-oz.product.100381502.html"
+    },
+    {
+      "title": "Universal Bakery Traditional Aussie Bites, 27 oz",
+      "price": "$11.99",
+      "details": "\n\t\t\n\t\t\tTraditional Aussie Bites\n\t\t\n\t\t\t\nIndividually Wrapped\n\t\t\n\t\t\t\n0g trans fat per serving\n\t\t\n\t\t\t\n27 oz plastic container\n\t\t\n\t",
+      "image": "",
+      "link": "https://www.costco.com/universal-bakery-traditional-aussie-bites%2c-27-oz.product.100644766.html"
+    },
+    {
+      "title": "Tim's Cascade Potato Chips, 1.5 oz, Variety Pack, 30-count",
+      "price": "$15.99",
+      "details": "\n\t\t\n\t\t\t1.5 oz Bag\n\t\t\n\t\t\t\n30-count\n\t\t\n\t\t\t\nTotal Net Weight: 45oz\n\t\t\n\t",
+      "image": "",
+      "link": "https://www.costco.com/tim's-cascade-potato-chips%2c-1.5-oz%2c-variety-pack%2c-30-count.product.100447346.html"
+    },
+    {
+      "title": "Kellogg's Club Crackers, Original, 13.7 oz, 4 Count",
+      "price": "$12.99",
+      "details": "\n\t\t\n\t\t\tKosher (Circle K) D\n\t\t\n\t\t\tNo cholesterol\n\t\t\n\t\t\t0g Sat fat\n\t\t\n\t\t\t70 Calories\n\t\t\n\t\t\t125mg Sodium\n\t\t\n\t",
+      "image": "",
+      "link": "https://www.costco.com/kellogg's-club-crackers%2c-original%2c-13.7-oz%2c-4-count.product.100381448.html"
+    }
+  ],
+  "https://www.costco.com/snacks.html?currentPage=10": [
+    {
+      "title": "Lance Sandwich Crackers, Toastchee, 1.52 oz, 40-count",
+      "price": "$9.99",
+      "details": "\n\t\t\n\t\t\tKosher (Circle U) D\n\t\t\n\t\t\t\n0g Trans fat\n\t\t\n\t\t\t\nNo Preservatives\n\t\t\n\t\t\t\nNo High-Fructose Corn Syrup\n\t\t\n\t\t\t\nReal Peanut Butter\n\t\t\n\t",
+      "image": "https://cdn.bfldr.com/U447IH35/as/vf4qwqqq4k3tgg5sj8b6gvxn/438655-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+      "link": "https://www.costco.com/lance-sandwich-crackers%2c-toastchee%2c-1.52-oz%2c-40-count.product.100443798.html"
+    },
+    {
+      "title": "GoGo SqueeZ, Organic Applesauce, Variety Pack, 3.2 oz, 28-Count",
+      "price": "$19.99",
+      "details": "\n\t\t\n\t\t\tOrganic Applesauce\n\t\t\n\t\t\t\nFruit Variety Pack\n\t\t\n\t\t\t\n1 Box with 28 Pouches\n\t\t\n\t\t\t\n3.2 oz Pouches\n\t\t\n\t",
+      "image": "https://cdn.bfldr.com/U447IH35/as/vf95sgws5bckx3h326z7p6/1760616-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+      "link": "https://www.costco.com/gogo-squeez%2c-organic-applesauce%2c-variety-pack%2c-3.2-oz%2c-28-count.product.4000203095.html"
+    },
+    {
+      "title": "Kirkland Signature Super Extra-Large Peanuts, 2.5 lbs",
+      "price": "$8.99",
+      "details": "\n\t\t\n\t\t\tVirginia Variety\n\t\t\n\t\t\tExtra Crunchy\n\t\t\n\t\t\tGluten Free\n\t\t\n\t\t\tKosher\n\t\t\n\t",
+      "image": "https://cdn.bfldr.com/U447IH35/as/9bhxr5bkrnj7x759fgpg7s3h/222490-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+      "link": "https://www.costco.com/kirkland-signature-super-extra-large-peanuts%2c-2.5-lbs.product.100115269.html"
+    },
+    {
+      "title": "Planters, Salted Peanuts, 1 oz, 48-count",
+      "price": "$9.49",
+      "details": "\n\t\t\n\t\t\tSalted Peanuts\n\t\t\n\t\t\t\nKosher\n\t\t\n\t\t\t\n48 Pack\n\t\t\n\t\t\t\nTotal Net Weight 3lb\n\t\t\n\t",
+      "image": "https://cdn.bfldr.com/U447IH35/as/gbr4jf338t2fmkb6h8hzxq/7791-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+      "link": "https://www.costco.com/planters%2c-salted-peanuts%2c-1-oz%2c-48-count.product.100381623.html"
+    },
+    {
+      "title": "La Dolce Vita Classic Italian Biscotti, 40 oz",
+      "price": "$11.49",
+      "details": "\n\t\t\n\t\t\tAuthentic Italian Biscotti\n\t\t\n\t\t\t\nKosher (Circle U) D\n\t\t\n\t\t\t\nReal Ingredients\n\t\t\n\t\t\t\nSmall Batch Baking\n\t\t\n\t\t\t\n40oz Size\n\t\t\n\t",
+      "image": "https://cdn.bfldr.com/U447IH35/as/5rkq95stghjcnzjj56r343t/219854-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+      "link": "https://www.costco.com/la-dolce-vita-classic-italian-biscotti%2c-40-oz.product.100441043.html"
+    },
+    {
+      "title": "Clif Bar, Crunchy Peanut Butter, 2.4 oz, 12-count",
+      "price": "$17.99",
+      "details": "\n\t\t\n\t\t\tMade with Organic Rolled Oats\n\t\t\n\t\t\t\nKosher\n\t\t\n\t\t\t\nNon-GMO\n\t\t\n\t\t\t\n9 - 11 g of Protein\n\t\t\n\t\t\t\nTotal Net Weight: 28.8 oz\n\t\t\n\t",
+      "image": "https://cdn.bfldr.com/U447IH35/as/krsqnjth946fkr93pr3f7v9/417230-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+      "link": "https://www.costco.com/clif-bar%2c-crunchy-peanut-butter%2c-2.4-oz%2c-12-count.product.100415931.html"
+    },
+    {
+      "title": "Golden Island Korean Barbecue Pork Jerky, 14.5 oz",
+      "price": "$14.99",
+      "details": "\n\t\t\n\t\t\tGluten Free\n\t\t\n\t\t\t\nNo Nitrites\n\t\t\n\t\t\t\nNo Artificial Ingredients\n\t\t\n\t\t\t\nProduct of USA\n\t\t\n\t",
+      "image": "https://cdn.bfldr.com/U447IH35/as/8sg7h6f43fkqjccrr7pvcb66/605195-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+      "link": "https://www.costco.com/golden-island-korean-barbecue-pork-jerky%2c-14.5-oz.product.100377137.html"
+    },
+    {
+      "title": "Jack Link's Beef Steak Stick, Original, 1 oz, 12-count",
+      "price": "$18.99",
+      "details": "\n\t\t\n\t\t\tOriginal beef steak\n\t\t\n\t\t\t\nPremium Cuts\n\t\t\n\t\t\t\nSlow Cooked and Seasoned\n\t\t\n\t\t\t\n11g protein per serving\n\t\t\n\t\t\t\n12 count\n\t\t\n\t",
+      "image": "https://cdn.bfldr.com/U447IH35/as/8vg4bcxf5jmgfwjxph5pmk5/889114-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+      "link": "https://www.costco.com/jack-link's-beef-steak-stick%2c-original%2c-1-oz%2c-12-count.product.100459963.html"
+    },
+    {
+      "title": "Happy Snacks Animal Crackers, 2 oz, 12-count",
+      "price": "$12.99",
+      "details": "\n\t\t\n\t\t\tPlant Based\n\t\t\n\t\t\t\nNut and Peanut Free\n\t\t\n\t\t\t\nDairy and Egg Free\n\t\t\n\t\t\t\nNon GMO\n\t\t\n\t\t\t\nFortified with Essential Vitamins and Minerals\n\t\t\n\t",
+      "image": "https://cdn.bfldr.com/U447IH35/as/6wsxrm7864fq7rhkfqg7z6f/1668727-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+      "link": "https://www.costco.com/happy-snacks-animal-crackers%2c-2-oz%2c-12-count.product.100987402.html"
+    },
+    {
+      "title": "Kirkland Signature Premium Extra Thick Steak Strips, 12 oz",
+      "price": "$12.99",
+      "details": "\n\t\t\n\t\t\tGluten free\n\t\t\n\t\t\t98% fat free\n\t\t\n\t\t\tReady to eat\n\t\t\n\t\t\tExtra thick cut\n\t\t\n\t\t\tSmoke flavoring added\n\t\t\n\t",
+      "image": "https://cdn.bfldr.com/U447IH35/as/xzr7cznqngn85v25mm24f5/6406-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+      "link": "https://www.costco.com/kirkland-signature-premium-extra-thick-steak-strips%2c-12-oz.product.100333696.html"
+    },
+    {
+      "title": "Ocean's Halo Organic Seaweed Snack, Sea Salt & Chili Lime Variety Pack, 0.14 oz, 24-count",
+      "price": "$12.99",
+      "details": null,
+      "image": "https://cdn.bfldr.com/U447IH35/as/k6bqtkt4hk6jg3wxpj52xk7/1614532-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+      "link": "https://www.costco.com/ocean's-halo-organic-seaweed-snack%2c-sea-salt-%2526-chili-lime-variety-pack%2c-0.14-oz%2c-24-count.product.100821815.html"
+    },
+    {
+      "title": "Cheez-It White Cheddar Baked Snack Cracker, 1.5 oz, 45-count",
+      "price": "$17.99",
+      "details": "\n\t\t\n\t\t\tCheese Crackers\n\t\t\n\t\t\t\nWhite Cheddar\n\t\t\n\t\t\t\nKosher\n\t\t\n\t\t\t\n210 Calories per Serving size 42 g\n\t\t\n\t\t\t\nNet Weight 67.5 oz\n\t\t\n\t",
+      "image": "https://cdn.bfldr.com/U447IH35/as/mf84q4t55m4mvvzrw6crx94/1207815-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+      "link": "https://www.costco.com/cheez-it-white-cheddar-baked-snack-cracker%2c-1.5-oz%2c-45-count.product.100525861.html"
+    },
+    {
+      "title": "Loacker Classic Crispy Wafers, Hazelnut, 1.59 oz, 12 Count",
+      "price": "$9.49",
+      "details": "\n\t\t\n\t\t\tCrispy Wafers With Hazelnut Cream Filling\n\t\t\n\t\t\t\nKosher\n\t\t\n\t\t\t\nNo Artificial Flavorings\n\t\t\n\t\t\t\nNo Added Colors\n\t\t\n\t\t\t\nNo Preservatives\n\t\t\n\t",
+      "image": "",
+      "link": "https://www.costco.com/loacker-classic-crispy-wafers%2c-hazelnut%2c-1.59-oz%2c-12-count.product.100845469.html"
+    },
+    {
+      "title": "Tapatio Mixed Nuts, Salsa Picante, 2.5 oz, 24-count",
+      "price": "$26.99",
+      "details": "\n\t\t\n\t\t\tSalsa Picante Mixed Nuts\n\t\t\n\t\t\t\nPeanuts, cashews, almonds with Tapatío flavored seasoning\n\t\t\n\t\t\t\n2.5 oz pack\n\t\t\n\t\t\t\n24-count\n\t\t\n\t",
+      "image": "",
+      "link": "https://www.costco.com/tapatio-mixed-nuts%2c-salsa-picante%2c-2.5-oz%2c-24-count.product.100948754.html"
+    },
+    {
+      "title": "Quaker Rice Crisps, Variety Pack, 36-count",
+      "price": "$19.99",
+      "details": "\n\t\t\n\t\t\tGluten free\n\t\t\n\t\t\t\nLow cholesterol\n\t\t\n\t\t\t\nPopped. Never Fried.\n\t\t\n\t\t\t\nBite-Sized & Delicious\n\t\t\n\t\t\t\nA Snack the Whole Family Will Love\n\t\t\n\t",
+      "image": "",
+      "link": "https://www.costco.com/quaker-rice-crisps%2c-variety-pack%2c-36-count.product.100642637.html"
+    },
+    {
+      "title": "Takis, Rolled Tortilla Chips, Blue Heat, 1 oz, 50-count",
+      "price": "$21.99",
+      "details": "\n\t\t\n\t\t\tBlue Heat\nHot Chili Pepper \n1 oz bag, 50 count\nArtificially Flavored\n\t\t\n\t",
+      "image": "",
+      "link": "https://www.costco.com/takis%2c-rolled-tortilla-chips%2c-blue-heat%2c-1-oz%2c-50-count.product.4000191543.html"
+    },
+    {
+      "title": "Lenny & Larry's The Complete Cookie, White Chocolate Flavored Macadamia, 4 oz, 12 count",
+      "price": "$17.99",
+      "details": "\n\t\t\n\t\t\tNon GMO\n\t\t\n\t\t\t\nKosher\n\t\t\n\t\t\t\nVegan\n\t\t\n\t\t\t\nPlant-based proteins\n\t\t\n\t\t\t\n16g protein and 10g fiber per cookie\n\t\t\n\t",
+      "image": "",
+      "link": "https://www.costco.com/lenny-%2526-larry's-the-complete-cookie%2c-white-chocolate-flavored-macadamia%2c-4-oz%2c-12-count.product.4000154302.html"
+    },
+    {
+      "title": "The Worthy Crumb, Mini Muffins, Blueberry, 2.6 oz, 16-Count",
+      "price": "$14.99",
+      "details": "\n\t\t\n\t\t\tKosher\n\t\t\n\t\t\t\nIndividually Wrapped\n\t\t\n\t\t\t\nNo Artificial Flavors or Colors\n\t\t\n\t\t\t\n3 Muffins per Pack\n\t\t\n\t\t\t\n16-Count\n\t\t\n\t",
+      "image": "",
+      "link": "https://www.costco.com/the-worthy-crumb%2c-mini-muffins%2c-blueberry%2c-2.6-oz%2c-16-count.product.100640973.html"
+    },
+    {
+      "title": "Entenmann’s Little Bites Party Cake Muffins, 1.65 oz, 20-count",
+      "price": "$13.99",
+      "details": "\n\t\t\n\t\t\tKosher\n\t\t\n\t\t\t \nNo High Fructose Corn Syrup\n\t\t\n\t\t\t\n0g Trans Fat\n\t\t\n\t\t\t\n4 Muffins Per Pack\n\t\t\n\t\t\t\nLabeled For Resale\n\t\t\n\t",
+      "image": "",
+      "link": "https://www.costco.com/entenmann%e2%80%99s-little-bites-party-cake-muffins%2c-1.65-oz%2c-20-count.product.100713055.html"
+    },
+    {
+      "title": "Planters Dry Roasted Peanuts, 3.25 lbs",
+      "price": "$8.49",
+      "details": "\n\t\t\n\t\t\tKosher\n\t\t\n\t\t\t\nCholesterol Free\n\t\t\n\t\t\t\n0g trans fat with 14 grams of fat per serving\n\t\t\n\t\t\t\n52 oz can\n\t\t\n\t",
+      "image": "",
+      "link": "https://www.costco.com/planters-dry-roasted-peanuts%2c-3.25-lbs.product.100442018.html"
+    },
+    {
+      "title": "Sugar Bowl Bakery, Brownie Bites, 32-Count",
+      "price": "$8.99",
+      "details": "\n\t\t\n\t\t\tKosher\n\t\t\n\t\t\t\nIndividually Wrapped\n\t\t\n\t\t\t\nNo Preservatives\n\t\t\n\t\t\t\nZero Grams of Trans Fat\n\t\t\n\t\t\t\nMade in the USA\n\t\t\n\t",
+      "image": "",
+      "link": "https://www.costco.com/sugar-bowl-bakery%2c-brownie-bites%2c-32-count.product.100381600.html"
+    },
+    {
+      "title": "Clif Bar Variety Pack, 2.4 oz, 26-count",
+      "price": "$25.99",
+      "details": "\n\t\t\n\t\t\tVariety Pack\n\t\t\n\t\t\t\n2.4 oz Bars\n\t\t\n\t\t\t\n26 Count\n\t\t\n\t\t\t\nNon-GMO\n\t\t\n\t\t\t\nPlant Based\n\t\t\n\t",
+      "image": "",
+      "link": "https://www.costco.com/clif-bar-variety-pack%2c-2.4-oz%2c-26-count.product.100785499.html"
+    },
+    {
+      "title": "Kirkland Signature Organic Walnuts, 1.7 lbs",
+      "price": "$9.99",
+      "details": "\n\t\t\n\t\t\tWalnuts from California\n\t\t\n\t\t\t\nUSDA Organic\n\t\t\n\t\t\t\nKosher\n\t\t\n\t\t\t\nResealable Bag\n\t\t\n\t\t\t\nProduct of USA\n\t\t\n\t",
+      "image": "",
+      "link": "https://www.costco.com/kirkland-signature-organic-walnuts%2c-1.7-lbs.product.100439069.html"
+    },
+    {
+      "title": "Mayorga Organic Chia Seeds, USDA Organic, NON-Gmo verified, 3lb, 2-pack",
+      "price": "$36.99",
+      "details": "\n\t\t\n\t\t\tUSDA Certified Organic\n\t\t\n\t\t\tOU Kosher\n\t\t\n\t\t\tNon-GMO Project Verified\n\t\t\n\t",
+      "image": "",
+      "link": "https://www.costco.com/mayorga-organic-chia-seeds%2c-usda-organic%2c-non-gmo-verified%2c-3lb%2c-2-pack.product.100522855.html"
+    }
+  ],
+  "https://www.costco.com/snacks.html?currentPage=11": [
+    {
+      "title": "Pringles Grab & Go Potato Crisps, Variety, 36-count",
+      "price": "$24.99",
+      "details": "\n\t\t\n\t\t\tPringles Potato Crisps\n\t\t\n\t\t\t\nKosher\n\t\t\n\t\t\t\n36 Grab & Go cans\n\t\t\n\t\t\t\nBursting with Flavor\n\t\t\n\t\t\t\nNet Weight 49.2 oz\n\t\t\n\t",
+      "image": "https://cdn.bfldr.com/U447IH35/as/ppk5bm3m7cwkj474nh2x2m/1489206-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+      "link": "https://www.costco.com/pringles-grab-%2526-go-potato-crisps%2c-variety%2c-36-count.product.100696413.html"
+    },
+    {
+      "title": "Jack Link's Protein Snack Box, Variety Pack, 24-count",
+      "price": "$37.99",
+      "details": "\n\t\t\n\t\t\tProtein Snack Variety Pack\n\t\t\n\t\t\t\nGood Source of Protein\n\t\t\n\t\t\t\nCarefully Selected Premium Meat\n\t\t\n\t\t\t\nSeasoned with a Signature Blend of Spices\n\t\t\n\t\t\t\nSlow-cooked Over Real Hardwood Smoke\n\t\t\n\t",
+      "image": "https://cdn.bfldr.com/U447IH35/as/kw2326kmpwhkqhrkhbm28pz/1722432-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+      "link": "https://www.costco.com/jack-link's-protein-snack-box%2c-variety-pack%2c-24-count.product.4000186972.html"
+    },
+    {
+      "title": "Slim Jim Smoked Snack Stick, Original, 0.28 oz, 120-count",
+      "price": "$28.99",
+      "details": "\n\t\t\n\t\t\tOriginal Smoked Snack Stick\n\t\t\n\t\t\t\nMade with Beef, Pork and Chicken\n\t\t\n\t\t\t\nIndividually wrapped\n\t\t\n\t\t\t\n120-count\n\t\t\n\t\t\t\nNet weight 33.6 oz\n\t\t\n\t",
+      "image": "https://cdn.bfldr.com/U447IH35/as/hmt6gcjb8336rmfkx8cjtc5g/1013287-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+      "link": "https://www.costco.com/slim-jim-smoked-snack-stick%2c-original%2c-0.28-oz%2c-120-count.product.100409594.html"
+    },
+    {
+      "title": "BelVita Breakfast Biscuit, Cinnamon Brown Sugar, 1.76 oz, 30-count",
+      "price": "$17.99",
+      "details": "\n\t\t\n\t\t\tKosher\n\t\t\n\t\t\t\nNo High Fructose Corn Syrup\n\t\t\n\t\t\t\nNo Artificial Flavors or Sweeteners\n\t\t\n\t\t\t\n19 gram Whole Grain per 50 gram Serving\n\t\t\n\t",
+      "image": "https://cdn.bfldr.com/U447IH35/as/4zjz5k89mrggq4vmzrfqc/1229285-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+      "link": "https://www.costco.com/belvita-breakfast-biscuit%2c-cinnamon-brown-sugar%2c-1.76-oz%2c-30-count.product.100421656.html"
+    },
+    {
+      "title": "Frito Lay Bold Mix, 1 oz, Variety Pack, 54-count",
+      "price": "$23.99",
+      "details": "\n\t\t\n\t\t\tBold Mix\n\t\t\n\t\t\t\nVariety Pack\n\t\t\n\t\t\t\n1.0 oz Bag\n\t\t\n\t\t\t\n54 Bags\n\t\t\n\t",
+      "image": "https://cdn.bfldr.com/U447IH35/as/hxv472z892fgqc8gh59fhhr/1627747-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+      "link": "https://www.costco.com/frito-lay-bold-mix%2c-1-oz%2c-variety-pack%2c-54-count.product.100836050.html"
+    },
+    {
+      "title": "KIND Nut Bar, Variety Pack, 1.4 oz, 22-count",
+      "price": "$23.99",
+      "details": "\n\t\t\n\t\t\t10 - Dark Chocolate Nuts & Sea Salt\n\t\t\n\t\t\t\n6 - Peanut Butter Dark Chocolate\n\t\t\n\t\t\t\n6 - Caramel Almond & Sea Salt\n\t\t\n\t\t\t\n1.4 oz Bars\n\t\t\n\t\t\t\n22 Total Bars\n\t\t\n\t",
+      "image": "https://cdn.bfldr.com/U447IH35/as/5vgckxgqg7tn2phjcchtr5/1786558-inc__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+      "link": "https://www.costco.com/kind-nut-bar%2c-variety-pack%2c-1.4-oz%2c-22-count.product.4000238556.html"
+    },
+    {
+      "title": "Frito-Lay Flamin' Hot Mix, Variety Pack, 54-count",
+      "price": "$24.99",
+      "details": "\n\t\t\n\t\t\tFlamin' Hot Mix\n\t\t\n\t\t\t\nMix of Favorite Brands And Snacks\n\t\t\n\t\t\t\nConvenient And Compact Box\n\t\t\n\t\t\t\n54-count\n\t\t\n\t\t\t\nCumulative bag net weight 52.25oz\n\t\t\n\t",
+      "image": "https://cdn.bfldr.com/U447IH35/as/7hxt8m2ck63gskqqr8hfjfwp/1542578-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+      "link": "https://www.costco.com/frito-lay-flamin'-hot-mix%2c-variety-pack%2c-54-count.product.4000033195.html"
+    },
+    {
+      "title": "Cheetos Crunchy, Flamin' Hot, 1 oz, 50-count",
+      "price": "$22.99",
+      "details": "\n\t\t\n\t\t\tGluten Free\n\t\t\n\t\t\tMade with Real Cheese\n\t\t\n\t\t\t0 grams of Trans Fat\n\t\t\n\t\t\t50 oz. Total Net Weight\n\t\t\n\t",
+      "image": "https://cdn.bfldr.com/U447IH35/as/hrjc4fxx99s92f4939x6mnrh/874503-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+      "link": "https://www.costco.com/cheetos-crunchy%2c-flamin'-hot%2c-1-oz%2c-50-count.product.100409457.html"
+    },
+    {
+      "title": "Schwartz Brothers Bakery, Organic Everything Bagel Chips, 15 oz",
+      "price": "$9.99",
+      "details": "\n\t\t\n\t\t\tEverything Bagel Chips\n\t\t\n\t\t\t\nKosher-Parve\n\t\t\n\t\t\t\nUSDA Organic\n\t\t\n\t\t\t\nNon-GMO\n\t\t\n\t\t\t\n15 oz container\n\t\t\n\t",
+      "image": "https://cdn.bfldr.com/U447IH35/as/f9m98ztjnghb4n3v2wcj7rrb/1391546-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+      "link": "https://www.costco.com/schwartz-brothers-bakery%2c-organic-everything-bagel-chips%2c-15-oz.product.100643788.html"
+    },
+    {
+      "title": "Sabritas Peanuts, 1.625 oz, Variety Pack, 30-count",
+      "price": "$11.99",
+      "details": "\n\t\t\n\t\t\tPeanuts\n\t\t\n\t\t\t\nKosher\n\t\t\n\t\t\t\n1.625 oz bag\n\t\t\n\t\t\t\n30-count\n\t\t\n\t",
+      "image": "https://cdn.bfldr.com/U447IH35/as/2x8t4b626fxqzbbqznm46ff/1153088-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+      "link": "https://www.costco.com/sabritas-peanuts%2c-1.625-oz%2c-variety-pack%2c-30-count.product.100761565.html"
+    },
+    {
+      "title": "Kind Mini Bars, Variety Pack, 0.7 oz, 36-count",
+      "price": "$20.99",
+      "details": "\n\t\t\n\t\t\tPeanut Butter Dark Chocolate\n\t\t\n\t\t\t\nCaramel Almond & Sea Salt\n\t\t\n\t\t\t\n100 Calories Per Bar\n\t\t\n\t\t\t\nKosher\n\t\t\n\t\t\t\nGluten-Free\n\t\t\n\t",
+      "image": "https://cdn.bfldr.com/U447IH35/as/kvmm9f3fpm2twnf7f5g8c5h9/1152802-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+      "link": "https://www.costco.com/kind-mini-bars%2c-variety-pack%2c-0.7-oz%2c-36-count.product.100403534.html"
+    },
+    {
+      "title": "Cheez-It Snap'd Crackers, Variety Pack, .75 oz, 42-count",
+      "price": "$16.99",
+      "details": "\n\t\t\n\t\t\tSnap'd Cheese Crackers\n\t\t\n\t\t\t\nMade with 100% real cheese\n\t\t\n\t\t\t\nKosher Dairy\n\t\t\n\t\t\t\nCheesy, thin & crispy\n\t\t\n\t\t\t\nNet Weight 31.5oz\n\t\t\n\t",
+      "image": "https://cdn.bfldr.com/U447IH35/as/hqkqj6rf9wpzctszk5m4rx49/1376572-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+      "link": "https://www.costco.com/cheez-it-snap'd-crackers%2c-variety-pack%2c-.75-oz%2c-42-count.product.100740906.html"
+    },
+    {
+      "title": "Cherry Bay Orchards No-Added-Sugar Dried Montmorency Cherries 8 oz Bag 2-pack",
+      "price": "$24.99",
+      "details": "\n\t\t\n\t\t\tGMO Free\n\t\t\n\t\t\t\nGluten Free\n\t\t\n\t\t\t\n100% Vegetarian and Vegan\n\t\t\n\t\t\t\nStar K – Kosher Certified\n\t\t\n\t\t\t\nProduct of the U.S.A.\n\t\t\n\t",
+      "image": "",
+      "link": "https://www.costco.com/cherry-bay-orchards-no-added-sugar-dried-montmorency-cherries-8-oz-bag-2-pack.product.100407876.html"
+    },
+    {
+      "title": "Our Heroes' Care Pack",
+      "price": "$56.99",
+      "details": "\n\t\t\n\t\t\t2 Mixed Nuts\n\t\t\n\t\t\t \n1 Snack Mix\n\t\t\n\t\t\t\n1 Country Club Mix\n\t\t\n\t\t\t\n3 Peanuts\n\t\t\n\t\t\t\nAnd More\n\t\t\n\t",
+      "image": "",
+      "link": "https://www.costco.com/our-heroes'-care-pack.product.100665471.html"
+    },
+    {
+      "title": "Utz Pub Crunchy Snack Mix, 44 oz",
+      "price": "$10.99",
+      "details": "\n\t\t\n\t\t\tKosher (Circle U) D\n\t\t\n\t\t\t\nA savory blend of crunchy snacks\n\t\t\n\t\t\t\n44 oz. Canister\n\t\t\n\t",
+      "image": "",
+      "link": "https://www.costco.com/utz-pub-crunchy-snack-mix%2c-44-oz.product.100113277.html"
+    },
+    {
+      "title": "Oberto Thin Style Beef Jerky, Peppered, 1.2 oz, 8-count",
+      "price": "$23.99",
+      "details": "\n\t\t\n\t\t\tPeppered Beef Jerky\n\t\t\n\t\t\t\nThin Style\n\t\t\n\t\t\t\n1.2 oz bag\n\t\t\n\t\t\t\n8-count\n\t\t\n\t\t\t\nNet Weight 9.6oz\n\t\t\n\t",
+      "image": "",
+      "link": "https://www.costco.com/oberto-thin-style-beef-jerky%2c-peppered%2c-1.2-oz%2c-8-count.product.100443801.html"
+    },
+    {
+      "title": "The Gluten Free Brothers Variety Bites, 6 count",
+      "price": "$24.99",
+      "details": "\n\t\t\n\t\t\tThe Gluten Free Bar Bites\n\t\t\n\t\t\t\n2 Coconut Cashew\n\t\t\n\t\t\t\n2 Dark Chocolate Peanut Butter\n\t\t\n\t\t\t\n2 Peanut Butter\n\t\t\n\t\t\t\n6 Count\n\t\t\n\t",
+      "image": "",
+      "link": "https://www.costco.com/the-gluten-free-brothers-variety-bites%2c-6-count.product.4000230766.html"
+    },
+    {
+      "title": "Cheetos Crunchy, Original, 1 oz, 50-count",
+      "price": "$22.99",
+      "details": "\n\t\t\n\t\t\tTrans Fat 0g per Serving\n\t\t\n\t\t\t\nGluten Free\n\t\t\n\t\t\t\nPorcine Free\n\t\t\n\t\t\t\nOnion Free\n\t\t\n\t\t\t\n50 oz. Total Net Weight\n\t\t\n\t",
+      "image": "",
+      "link": "https://www.costco.com/cheetos-crunchy%2c-original%2c-1-oz%2c-50-count.product.100415919.html"
+    },
+    {
+      "title": "BelVita Breakfast Biscuits, Blueberry, 1.76 oz, 30-count",
+      "price": "$17.99",
+      "details": "\n\t\t\n\t\t\tKosher (Circle U) D\n\t\t\n\t\t\t\nNo high fructose corn syrup\n\t\t\n\t\t\t\nNo artificial flavors or artificial sweeteners\n\t\t\n\t\t\t\nTotal Net Weight 3 LB\n\t\t\n\t",
+      "image": "",
+      "link": "https://www.costco.com/belvita-breakfast-biscuits%2c-blueberry%2c-1.76-oz%2c-30-count.product.100439457.html"
+    },
+    {
+      "title": "Cheetos Crunchy, Flamin' Hot, 2 oz, 64-count",
+      "price": "$49.99",
+      "details": "\n\t\t\n\t\t\tGluten Free\n\t\t\n\t\t\tMade with Real Cheese\n\t\t\n\t\t\t0 grams of Trans Fat\n\t\t\n\t\t\t128 oz. Total Net Weight\n\t\t\n\t",
+      "image": "",
+      "link": "https://www.costco.com/cheetos-crunchy%2c-flamin'-hot%2c-2-oz%2c-64-count.product.100409665.html"
+    },
+    {
+      "title": "Universal Bakery Organic Paleo Bars, 20-Count",
+      "price": "$11.99",
+      "details": "\n\t\t\n\t\t\tUSDA Organic\n\t\t\n\t\t\t\nGrain Free\n\t\t\n\t\t\t\nCertified Paleo\n\t\t\n\t\t\t\nTotal Net Weight: 27 oz\n\t\t\n\t",
+      "image": "",
+      "link": "https://www.costco.com/universal-bakery-organic-paleo-bars%2c-20-count.product.100539755.html"
+    },
+    {
+      "title": "Oberto Thin Style Beef Jerky, Original, 1.2 oz, 8-count",
+      "price": "$23.99",
+      "details": "\n\t\t\n\t\t\t97% Fat Free\n\t\t\n\t\t\t\nNo Added MSG\n\t\t\n\t\t\t\n0g Trans Fat per Serving\n\t\t\n\t\t\t\nMade in the USA\n\t\t\n\t",
+      "image": "",
+      "link": "https://www.costco.com/oberto-thin-style-beef-jerky%2c-original%2c-1.2-oz%2c-8-count.product.100417241.html"
+    },
+    {
+      "title": "Oberto Thin Style Smoked Sausage Stick, Cocktail Pepperoni, 3 oz, 8-count",
+      "price": "$23.99",
+      "details": "\n\t\t\n\t\t\tCocktail Pepperoni\n\t\t\n\t\t\t\nSmoked Sausage Sticks\n\t\t\n\t\t\t\n3 oz bag\n\t\t\n\t\t\t\n8-count\n\t\t\n\t\t\t\nNet Weight: 24 oz\n\t\t\n\t",
+      "image": "",
+      "link": "https://www.costco.com/oberto-thin-style-smoked-sausage-stick%2c-cocktail-pepperoni%2c-3-oz%2c-8-count.product.100443790.html"
+    },
+    {
+      "title": "Sensible Portions, Garden Veggie Straws, Sea Salt, 1 oz, 42-Count",
+      "price": "$21.99",
+      "details": "\n\t\t\n\t\t\tNo artificial flavors or preservatives\n\t\t\n\t\t\t\nGluten free\n\t\t\n\t\t\t\nKosher\n\t\t\n\t\t\t\nIndividually packaged for resale\n\t\t\n\t\t\t\nNet Weight 42 oz\n\t\t\n\t",
+      "image": "",
+      "link": "https://www.costco.com/sensible-portions%2c-garden-veggie-straws%2c-sea-salt%2c-1-oz%2c-42-count.product.4000146752.html"
+    }
   ]
 }

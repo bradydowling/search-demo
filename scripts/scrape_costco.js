@@ -269,7 +269,7 @@ const cachedPageUrls = [
   // get products from the first 10 unscraped pages
   const pageProducts0 = await getProducts(urlsOfUnscrapedPages[0]);
   const pageProducts1 = await getProducts(urlsOfUnscrapedPages[1]);
-  // const pageProducts2 = await getProducts(urlsOfUnscrapedPages[2]);
+  const pageProducts2 = await getProducts(urlsOfUnscrapedPages[2]);
   // const pageProducts3 = await getProducts(urlsOfUnscrapedPages[3]);
   // const pageProducts4 = await getProducts(urlsOfUnscrapedPages[4]);
   // const pageProducts5 = await getProducts(urlsOfUnscrapedPages[5]);
@@ -281,7 +281,7 @@ const cachedPageUrls = [
   const newProducts = {
     ...pageProducts0,
     ...pageProducts1,
-    // ...pageProducts2,
+    ...pageProducts2,
     // ...pageProducts3,
     // ...pageProducts4,
     // ...pageProducts5,
@@ -291,10 +291,10 @@ const cachedPageUrls = [
     // ...pageProducts9,
   };
 
-  const allProducts = { ...existingProducts, ...newProducts };
-  // write allProducts to a file
-  fs.writeFileSync(
-    "costco_products.json",
-    JSON.stringify(allProducts, null, 2)
+  const allProducts = { ...existingProductsJson, ...newProducts };
+  // write back to the file
+  fs.writeFileSync("data/products.json", JSON.stringify(allProducts, null, 2));
+  console.log(
+    `Saved products for ${urlsOfUnscrapedPages[0]} and ${urlsOfUnscrapedPages[1]} to products.json`
   );
 })();
