@@ -102,12 +102,12 @@ export default function Home() {
               alt="Costco Logo"
               className="w-56 h-auto"
             />
-            <form onSubmit={handleSearch} className="ml-4 grow">
+            <form onSubmit={handleSearch} className="ml-4 flex-grow flex">
               <input
                 type="text"
                 value={searchTerm}
                 onChange={(e) => setSearchTerm(e.target.value)}
-                className="p-4 border border-gray-600 text-black grow"
+                className="p-4 border border-gray-600 text-black flex-grow"
                 placeholder="Search..."
               />
               <button
@@ -118,7 +118,7 @@ export default function Home() {
               </button>
             </form>
           </div>
-          <div className="flex items-center text-white text-blue-800">
+          <div className="flex items-center text-white text-blue-800 ml-8">
             <a
               href="#"
               className="hover:underline px-4 border-r-2 border-gray-200"
