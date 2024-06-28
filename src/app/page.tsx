@@ -2,14 +2,19 @@
 
 import Image from "next/image";
 import { useState } from "react";
+import parse from "html-react-parser";
 
 export default function Home() {
   const [searchTerm, setSearchTerm] = useState("");
+  const [searchResults, setSearchResults] = useState([] as any[]);
 
   const handleSearch = async (event: React.FormEvent<HTMLFormElement>) => {
     event.preventDefault();
 
-    console.log(process.env.NEXT_PUBLIC_TRIEVE_DATASET_ID);
+    if (!searchTerm) {
+      setSearchResults([]);
+      return;
+    }
 
     try {
       const body = {
@@ -29,10 +34,40 @@ export default function Home() {
         body: JSON.stringify(body),
       });
       const data = await response.json();
-      console.log(data);
+      setSearchResults(data.score_chunks);
     } catch (error) {
       console.error("Error fetching data:", error);
     }
+  };
+
+  const highlightText = (text: string, highlights: string[]) => {
+    console.log("text", text);
+    let highlightedText = text;
+
+    highlights.forEach((highlight) => {
+      const regex = new RegExp(`(${highlight.trim()})`, "gi");
+      highlightedText = highlightedText.replace(
+        regex,
+        '<mark class="bg-yellow-200">$1</mark>'
+      );
+    });
+
+    return highlightedText;
+  };
+
+  const DisplayHighlightedHTML = ({
+    chunkHtml,
+    highlights,
+  }: {
+    chunkHtml: string;
+    highlights: string[];
+  }) => {
+    if (!chunkHtml) {
+      return null;
+    }
+
+    const highlightedHtml = highlightText(chunkHtml, highlights);
+    return <div>{parse(highlightedHtml)}</div>;
   };
 
   return (
@@ -77,7 +112,7 @@ export default function Home() {
           type="text"
           value={searchTerm}
           onChange={(e) => setSearchTerm(e.target.value)}
-          className="w-full p-2 border border-gray-300 rounded-lg"
+          className="w-full p-2 border border-gray-300 rounded-lg text-black"
           placeholder="Search..."
         />
         <button
@@ -87,6 +122,24 @@ export default function Home() {
           Search
         </button>
       </form>
+
+      {searchResults.length > 0 && (
+        <div className="flex flex-col gap-4 mb-8 w-full max-w-md bg-white text-black">
+          {searchResults.map((result, id) => {
+            return (
+              <div
+                key={result.metadata[0].chunk_html}
+                className="border-gray-300 p-4 rounded-lg border"
+              >
+                <DisplayHighlightedHTML
+                  chunkHtml={result.metadata[0].chunk_html}
+                  highlights={result.highlights}
+                />
+              </div>
+            );
+          })}
+        </div>
+      )}
 
       <div className="mb-32 grid text-center lg:mb-0 lg:w-full lg:max-w-5xl lg:grid-cols-4 lg:text-left">
         <a
