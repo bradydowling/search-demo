@@ -58,11 +58,11 @@ const getProducts = async (pageUrl) => {
 
   const products = await page.$$eval("div.product", (elements) =>
     elements.map((el) => {
-      const titleElement = el.querySelector("div.product-description a");
+      const titleElement = el.querySelector("div.product .description a");
       const priceElement = el.querySelector("div.product .price");
       const detailsElement = el.querySelector("div.product .product-features");
       const imageElement = el.querySelector(
-        "div.product .product-image-holder img"
+        "div.product .product-img-holder img"
       );
 
       return {
