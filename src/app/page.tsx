@@ -1,6 +1,5 @@
 "use client";
 
-import Image from "next/image";
 import { useState } from "react";
 import parse from "html-react-parser";
 
@@ -71,26 +70,49 @@ export default function Home() {
   };
 
   return (
-    <main className="flex min-h-screen flex-col items-center justify-start bg-gray-100">
-      <header className="w-full bg-blue-900 p-2">
-        <div className="flex justify-between items-center max-w-7xl mx-auto">
+    <main className="flex min-h-screen flex-col items-center justify-start bg-gray-100 text-blue-500">
+      <header className="w-full p-2 border-blue-700 border-t-2">
+        <div className="flex justify-end gap-16 items-center max-w-7xl mx-auto py-4">
+          <a href="#" className="hover:underline">
+            Costco Next
+          </a>
+          <a href="#" className="hover:underline">
+            While Supplies Last
+          </a>
+          <a href="#" className="hover:underline">
+            Online-Only
+          </a>
+          <a href="#" className="hover:underline">
+            Treasure Hunt
+          </a>
+          <a href="#" className="hover:underline">
+            What's New
+          </a>
+          <a href="#" className="hover:underline">
+            New Low Prices
+          </a>
+          <a href="#" className="hover:underline">
+            Get Email Offers
+          </a>
+        </div>
+        <div className="flex justify-between items-center w-full p-8 mx-auto">
           <div className="flex items-center">
             <img
               src="https://www.costco.com/wcsstore/CostcoGLOBALSAS/images/Costco_Logo-1.png"
               alt="Costco Logo"
-              className="w-36 h-auto"
+              className="w-56 h-auto"
             />
             <form onSubmit={handleSearch} className="ml-4">
               <input
                 type="text"
                 value={searchTerm}
                 onChange={(e) => setSearchTerm(e.target.value)}
-                className="p-2 border border-gray-300 rounded-lg text-black"
+                className="p-2 border border-gray-600 rounded-lg text-black w-144"
                 placeholder="Search..."
               />
               <button
                 type="submit"
-                className="ml-2 bg-blue-500 text-white py-2 px-4 rounded-lg"
+                className="ml-2 bg-blue-700 text-white py-2 px-4 rounded-lg"
               >
                 Search
               </button>
@@ -169,6 +191,7 @@ export default function Home() {
         </div>
       )}
 
+      {/* TODO: Align just the footer to the bottom */}
       <footer className="w-full bg-gray-800 text-white py-4">
         <div className="max-w-7xl mx-auto text-center">
           <p>
