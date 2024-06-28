@@ -124,12 +124,12 @@ export default function Home() {
       </form>
 
       {searchResults.length > 0 && (
-        <div className="flex flex-col gap-4 mb-8 w-full max-w-md bg-white text-black">
+        <div className="flex flex-col mb-8 w-full max-w-md bg-white text-black">
           {searchResults.map((result, id) => {
             return (
               <div
                 key={result.metadata[0].chunk_html}
-                className="border-gray-300 p-4 rounded-lg border"
+                className="border-gray-300 border p-4"
               >
                 <DisplayHighlightedHTML
                   chunkHtml={result.metadata[0].chunk_html}
