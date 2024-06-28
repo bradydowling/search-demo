@@ -267,28 +267,28 @@ const cachedPageUrls = [
   );
 
   // get products from the first 10 unscraped pages
+  const pageProducts0 = await getProducts(urlsOfUnscrapedPages[0]);
   const pageProducts1 = await getProducts(urlsOfUnscrapedPages[1]);
-  const pageProducts2 = await getProducts(urlsOfUnscrapedPages[2]);
-  const pageProducts3 = await getProducts(urlsOfUnscrapedPages[3]);
-  const pageProducts4 = await getProducts(urlsOfUnscrapedPages[4]);
-  const pageProducts5 = await getProducts(urlsOfUnscrapedPages[5]);
-  const pageProducts6 = await getProducts(urlsOfUnscrapedPages[6]);
-  const pageProducts7 = await getProducts(urlsOfUnscrapedPages[7]);
-  const pageProducts8 = await getProducts(urlsOfUnscrapedPages[8]);
-  const pageProducts9 = await getProducts(urlsOfUnscrapedPages[9]);
-  const pageProducts10 = await getProducts(urlsOfUnscrapedPages[10]);
+  // const pageProducts2 = await getProducts(urlsOfUnscrapedPages[2]);
+  // const pageProducts3 = await getProducts(urlsOfUnscrapedPages[3]);
+  // const pageProducts4 = await getProducts(urlsOfUnscrapedPages[4]);
+  // const pageProducts5 = await getProducts(urlsOfUnscrapedPages[5]);
+  // const pageProducts6 = await getProducts(urlsOfUnscrapedPages[6]);
+  // const pageProducts7 = await getProducts(urlsOfUnscrapedPages[7]);
+  // const pageProducts8 = await getProducts(urlsOfUnscrapedPages[8]);
+  // const pageProducts9 = await getProducts(urlsOfUnscrapedPages[9]);
 
   const newProducts = {
+    ...pageProducts0,
     ...pageProducts1,
-    ...pageProducts2,
-    ...pageProducts3,
-    ...pageProducts4,
-    ...pageProducts5,
-    ...pageProducts6,
-    ...pageProducts7,
-    ...pageProducts8,
-    ...pageProducts9,
-    ...pageProducts10,
+    // ...pageProducts2,
+    // ...pageProducts3,
+    // ...pageProducts4,
+    // ...pageProducts5,
+    // ...pageProducts6,
+    // ...pageProducts7,
+    // ...pageProducts8,
+    // ...pageProducts9,
   };
 
   const allProducts = { ...existingProducts, ...newProducts };
