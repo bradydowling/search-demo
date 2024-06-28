@@ -70,9 +70,9 @@ export default function Home() {
   };
 
   return (
-    <main className="flex min-h-screen flex-col items-center justify-start bg-gray-100 text-blue-500">
+    <main className="flex min-h-screen flex-col items-center justify-start bg-gray-100 text-blue-800">
       <header className="w-full p-2 border-blue-700 border-t-2">
-        <div className="flex justify-end gap-16 items-center max-w-7xl mx-auto py-4">
+        <div className="flex justify-end gap-16 items-end max-w-7xl mx-auto py-4">
           <a href="#" className="hover:underline">
             Costco Next
           </a>
@@ -86,7 +86,7 @@ export default function Home() {
             Treasure Hunt
           </a>
           <a href="#" className="hover:underline">
-            What's New
+            What&apos;s New
           </a>
           <a href="#" className="hover:underline">
             New Low Prices
@@ -96,18 +96,18 @@ export default function Home() {
           </a>
         </div>
         <div className="flex justify-between items-center w-full p-8 mx-auto">
-          <div className="flex items-center">
+          <div className="flex items-center grow">
             <img
               src="https://www.costco.com/wcsstore/CostcoGLOBALSAS/images/Costco_Logo-1.png"
               alt="Costco Logo"
               className="w-56 h-auto"
             />
-            <form onSubmit={handleSearch} className="ml-4">
+            <form onSubmit={handleSearch} className="ml-4 grow">
               <input
                 type="text"
                 value={searchTerm}
                 onChange={(e) => setSearchTerm(e.target.value)}
-                className="p-2 border border-gray-600 rounded-lg text-black w-144"
+                className="p-4 border border-gray-600 text-black grow"
                 placeholder="Search..."
               />
               <button
@@ -118,21 +118,27 @@ export default function Home() {
               </button>
             </form>
           </div>
-          <div className="flex items-center space-x-4 text-white">
-            <a href="#" className="hover:underline">
+          <div className="flex items-center text-white text-blue-800">
+            <a
+              href="#"
+              className="hover:underline px-4 border-r-2 border-gray-200"
+            >
               Sign In / Register
             </a>
-            <a href="#" className="hover:underline">
+            <a
+              href="#"
+              className="hover:underline px-4 border-r-2 border-gray-200"
+            >
               Orders & Returns
             </a>
-            <a href="#" className="hover:underline">
+            <a href="#" className="hover:underline px-4">
               Cart
             </a>
           </div>
         </div>
       </header>
 
-      <nav className="w-full bg-blue-700 text-white py-2">
+      <nav className="w-full bg-blue-700 text-white py-4">
         <div className="flex justify-around max-w-7xl mx-auto">
           <a href="#" className="hover:underline">
             Shop
@@ -190,16 +196,6 @@ export default function Home() {
           })}
         </div>
       )}
-
-      {/* TODO: Align just the footer to the bottom */}
-      <footer className="w-full bg-gray-800 text-white py-4">
-        <div className="max-w-7xl mx-auto text-center">
-          <p>
-            &copy; {new Date().getFullYear()} Costco Wholesale. All rights
-            reserved.
-          </p>
-        </div>
-      </footer>
     </main>
   );
 }
