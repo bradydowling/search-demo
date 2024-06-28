@@ -44,13 +44,6 @@ const getPageCount = async (categoryUrl) => {
   return lastPageNumber;
 };
 
-// should get the title, price, details, image for each item on the page
-// selector for a product: "div.product
-// selector for title: "div.product description a" (get the link and the text)
-// selector for price: "div.product .price"
-// selector for details: "div.product .product-features"
-// selector for image: "div.product .product-image-holder img
-// return type would be an object where the key is the pageUrl and the value is an array of objects with the title, price, details, and image url for each
 const getProducts = async (pageUrl) => {
   const browser = await playwright["firefox"].launch();
   const context = await browser.newContext();
@@ -229,6 +222,8 @@ const cachedPageUrls = [
   "https://www.costco.com/pet-supplies.html?currentPage=7",
 ];
 
+const waitFor = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
+
 (async () => {
   console.log("starting script");
   const mainCategoryUrls = cachedCategoryUrls || (await getCategoryUrls());
@@ -273,7 +268,9 @@ const cachedPageUrls = [
 
   // get products from 3 pages at a time (to avoid getting blocked)
   const pageProducts0 = await getProducts(urlsOfUnscrapedPages[0]);
+  await waitFor(1000);
   const pageProducts1 = await getProducts(urlsOfUnscrapedPages[1]);
+  await waitFor(1000);
   const pageProducts2 = await getProducts(urlsOfUnscrapedPages[2]);
 
   const newProducts = {
