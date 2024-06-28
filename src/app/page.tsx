@@ -1,12 +1,45 @@
+"use client";
+
 import Image from "next/image";
+import { useState } from "react";
 
 export default function Home() {
+  const [searchTerm, setSearchTerm] = useState("");
+
+  const handleSearch = async (event: React.FormEvent<HTMLFormElement>) => {
+    event.preventDefault();
+
+    console.log(process.env.NEXT_PUBLIC_TRIEVE_DATASET_ID);
+
+    try {
+      const body = {
+        query: searchTerm,
+        search_type: "semantic",
+      };
+
+      // this is a post and should pass the body
+      const response = await fetch(`https://api.trieve.ai/api/chunk/search`, {
+        method: "POST",
+        // @ts-expect-error Custom Trieve headers
+        headers: {
+          "Content-Type": "application/json",
+          "TR-Dataset": process.env.NEXT_PUBLIC_TRIEVE_DATASET_ID,
+          Authorization: process.env.NEXT_PUBLIC_TRIEVE_API_KEY,
+        },
+        body: JSON.stringify(body),
+      });
+      const data = await response.json();
+      console.log(data);
+    } catch (error) {
+      console.error("Error fetching data:", error);
+    }
+  };
+
   return (
     <main className="flex min-h-screen flex-col items-center justify-between p-24">
       <div className="z-10 w-full max-w-5xl items-center justify-between font-mono text-sm lg:flex">
         <p className="fixed left-0 top-0 flex w-full justify-center border-b border-gray-300 bg-gradient-to-b from-zinc-200 pb-6 pt-8 backdrop-blur-2xl dark:border-neutral-800 dark:bg-zinc-800/30 dark:from-inherit lg:static lg:w-auto  lg:rounded-xl lg:border lg:bg-gray-200 lg:p-4 lg:dark:bg-zinc-800/30">
-          Get started by editing&nbsp;
-          <code className="font-mono font-bold">src/app/page.tsx</code>
+          Costco.com
         </p>
         <div className="fixed bottom-0 left-0 flex h-48 w-full items-end justify-center bg-gradient-to-t from-white via-white dark:from-black dark:via-black lg:static lg:size-auto lg:bg-none">
           <a
@@ -38,6 +71,22 @@ export default function Home() {
           priority
         />
       </div>
+
+      <form onSubmit={handleSearch} className="mb-8 w-full max-w-md">
+        <input
+          type="text"
+          value={searchTerm}
+          onChange={(e) => setSearchTerm(e.target.value)}
+          className="w-full p-2 border border-gray-300 rounded-lg"
+          placeholder="Search..."
+        />
+        <button
+          type="submit"
+          className="mt-2 w-full bg-blue-500 text-white py-2 px-4 rounded-lg"
+        >
+          Search
+        </button>
+      </form>
 
       <div className="mb-32 grid text-center lg:mb-0 lg:w-full lg:max-w-5xl lg:grid-cols-4 lg:text-left">
         <a
