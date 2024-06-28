@@ -278,6 +278,14 @@ const waitFor = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
     ...pageProducts2,
   };
 
+  // if any of them are just an empty array, log that out
+  const emptyPages = Object.entries(newProducts).filter(
+    ([_, products]) => products.length === 0
+  );
+  if (emptyPages.length > 0) {
+    console.log(`Empty pages: ${emptyPages.map(([url, _]) => url)}`);
+  }
+
   const allProducts = { ...existingProductsJson, ...newProducts };
   // write back to the file
   fs.writeFileSync("data/products.json", JSON.stringify(allProducts, null, 2));
