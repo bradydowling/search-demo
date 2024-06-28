@@ -1,4 +1,5 @@
 const playwright = require("playwright");
+const fs = require("fs");
 
 /**
  * 1. get category urls
@@ -230,7 +231,7 @@ const cachedPageUrls = [
 (async () => {
   console.log("starting script");
   const mainCategoryUrls = cachedCategoryUrls || (await getCategoryUrls());
-  console.log(mainCategoryUrls);
+  // console.log(mainCategoryUrls);
 
   if (!mainCategoryUrls.length || mainCategoryUrls.length === 0) {
     console.log("No category urls found");
@@ -256,6 +257,44 @@ const cachedPageUrls = [
   //   })
   //   .flat();
   // console.log(pageUrls);
-  const pageProducts = await getProducts(cachedPageUrls[0]);
-  console.log(JSON.stringify(pageProducts, null, 2));
+
+  const existingProducts = fs.readFileSync("./data/products.json", "utf8");
+  const existingProductsJson = JSON.parse(existingProducts);
+  const scrapedPages = Object.keys(existingProductsJson);
+
+  const urlsOfUnscrapedPages = cachedPageUrls.filter(
+    (url) => !scrapedPages.includes(url)
+  );
+
+  // get products from the first 10 unscraped pages
+  const pageProducts1 = await getProducts(urlsOfUnscrapedPages[1]);
+  const pageProducts2 = await getProducts(urlsOfUnscrapedPages[2]);
+  const pageProducts3 = await getProducts(urlsOfUnscrapedPages[3]);
+  const pageProducts4 = await getProducts(urlsOfUnscrapedPages[4]);
+  const pageProducts5 = await getProducts(urlsOfUnscrapedPages[5]);
+  const pageProducts6 = await getProducts(urlsOfUnscrapedPages[6]);
+  const pageProducts7 = await getProducts(urlsOfUnscrapedPages[7]);
+  const pageProducts8 = await getProducts(urlsOfUnscrapedPages[8]);
+  const pageProducts9 = await getProducts(urlsOfUnscrapedPages[9]);
+  const pageProducts10 = await getProducts(urlsOfUnscrapedPages[10]);
+
+  const newProducts = {
+    ...pageProducts1,
+    ...pageProducts2,
+    ...pageProducts3,
+    ...pageProducts4,
+    ...pageProducts5,
+    ...pageProducts6,
+    ...pageProducts7,
+    ...pageProducts8,
+    ...pageProducts9,
+    ...pageProducts10,
+  };
+
+  const allProducts = { ...existingProducts, ...newProducts };
+  // write allProducts to a file
+  fs.writeFileSync(
+    "costco_products.json",
+    JSON.stringify(allProducts, null, 2)
+  );
 })();
