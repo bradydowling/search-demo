@@ -1,6 +1,5 @@
 const playwright = require("playwright");
 const fs = require("fs");
-const { cache } = require("react");
 
 /**
  * 1. get category urls
