@@ -267,9 +267,7 @@ const waitFor = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 
   // get products from 3 pages at a time (to avoid getting blocked)
   const pageProducts0 = await getProducts(urlsOfUnscrapedPages[0]);
-  await waitFor(1000);
   const pageProducts1 = await getProducts(urlsOfUnscrapedPages[1]);
-  await waitFor(1000);
   const pageProducts2 = await getProducts(urlsOfUnscrapedPages[2]);
 
   const newProducts = {
@@ -283,7 +281,9 @@ const waitFor = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
     ([_, products]) => products.length === 0
   );
   if (emptyPages.length > 0) {
-    console.log(`Empty pages: ${emptyPages.map(([url, _]) => url)}`);
+    console.log(
+      `Empty pages: \n${emptyPages.map(([url, _]) => `${url}\n`)}`.trim()
+    );
   }
 
   const allProducts = { ...existingProductsJson, ...newProducts };
