@@ -9,7 +9,7 @@ export default function Home() {
   const [debouncedSearchTerm, setDebouncedSearchTerm] = useState("");
   const [highlightedIndex, setHighlightedIndex] = useState(-1);
   const resultsContainerRef = useRef<HTMLDivElement>(null);
-  const resultRefs = useRef<(HTMLDivElement | null)[]>([]);
+  const resultRefs = useRef<(HTMLLIElement | null)[]>([]);
 
   const handleSearch = useCallback(async () => {
     if (!debouncedSearchTerm) {
@@ -83,9 +83,14 @@ export default function Home() {
     } else if (e.key === "Enter" && highlightedIndex >= 0) {
       // Handle the enter key to select the highlighted item
       const selectedResult = searchResults[highlightedIndex];
-      console.log("Selected result:", selectedResult);
-      // You can add further logic to handle the selection (e.g., navigate to the result's page)
+      if (selectedResult && selectedResult.metadata[0].link) {
+        window.location.href = selectedResult.metadata[0].link;
+      }
     }
+  };
+
+  const handleResultClick = (link: string) => {
+    window.location.href = link;
   };
 
   const highlightText = (text: string, highlights: string[]) => {
@@ -172,22 +177,25 @@ export default function Home() {
                   ref={resultsContainerRef}
                   className="absolute left-0 right-0 top-full z-40 bg-white shadow-lg mt-2 p-4 rounded-lg max-h-96 overflow-y-auto"
                 >
-                  <div className="flex flex-col gap-4 text-black">
+                  <ul className="flex flex-col gap-4 text-black">
                     {searchResults.map((result, index) => (
-                      <div
+                      <li
                         ref={(el) => (resultRefs.current[index] = el)}
                         key={result.metadata[0].chunk_html}
-                        className={`border-gray-300 p-4 rounded-lg border ${
+                        className={`border-gray-300 p-4 rounded-lg border cursor-pointer ${
                           index === highlightedIndex ? "bg-gray-200" : ""
                         }`}
+                        onClick={() =>
+                          handleResultClick(result.metadata[0].link)
+                        }
                       >
                         <DisplayHighlightedHTML
                           chunkHtml={result.metadata[0].chunk_html}
                           highlights={result.highlights}
                         />
-                      </div>
+                      </li>
                     ))}
-                  </div>
+                  </ul>
                 </div>
               )}
             </div>
