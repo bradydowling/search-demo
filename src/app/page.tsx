@@ -24,13 +24,10 @@ export default function Home() {
         search_type: "semantic",
       };
 
-      const response = await fetch(`https://api.trieve.ai/api/chunk/search`, {
+      const response = await fetch(`/api/trieveSearch`, {
         method: "POST",
-        // @ts-expect-error Custom Trieve headers
         headers: {
           "Content-Type": "application/json",
-          "TR-Dataset": process.env.NEXT_PUBLIC_TRIEVE_DATASET_ID,
-          Authorization: process.env.NEXT_PUBLIC_TRIEVE_API_KEY,
         },
         body: JSON.stringify(body),
       });
