@@ -5,7 +5,6 @@ export default async function handler(
   req: NextApiRequest,
   res: NextApiResponse
 ) {
-  console.log("hit it");
   if (req.method === "POST") {
     try {
       const { query, search_type } = req.body;

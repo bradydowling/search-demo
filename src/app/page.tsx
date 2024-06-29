@@ -51,19 +51,6 @@ export default function Home() {
     handleSearch();
   }, [debouncedSearchTerm, handleSearch]);
 
-  useEffect(() => {
-    const fetchTestData = async () => {
-      try {
-        const response = await axios.get("/api/test");
-        console.log("Test endpoint response:", response.data);
-      } catch (error) {
-        console.error("Error fetching test endpoint data:", error);
-      }
-    };
-
-    fetchTestData();
-  }, []);
-
   const handleKeyDown = (e: React.KeyboardEvent<HTMLInputElement>) => {
     if (e.key === "ArrowDown") {
       setHighlightedIndex((prevIndex) => {
