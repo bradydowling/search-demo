@@ -11,6 +11,7 @@ export default function Home() {
   const [debouncedSearchTerm, setDebouncedSearchTerm] = useState("");
   const [highlightedIndex, setHighlightedIndex] = useState(-1);
   const resultsContainerRef = useRef<HTMLDivElement>(null);
+  const searchInputRef = useRef<HTMLInputElement>(null);
   const resultRefs = useRef<(HTMLLIElement | null)[]>([]);
 
   const handleSearch = useCallback(async () => {
@@ -89,11 +90,16 @@ export default function Home() {
     window.location.href = link;
   };
 
+  const escapeRegExp = (string: string) => {
+    return string.replace(/[.*+?^${}()|[\]\\]/g, "\\$&"); // $& means the whole matched string
+  };
+
   const highlightText = (text: string, highlights: string[]) => {
     let highlightedText = text;
 
     highlights.forEach((highlight) => {
-      const regex = new RegExp(`(${highlight.trim()})`, "gi");
+      const escapedHighlight = escapeRegExp(highlight.trim());
+      const regex = new RegExp(`(${escapedHighlight})`, "gi");
       highlightedText = highlightedText.replace(
         regex,
         '<mark class="bg-yellow-200">$1</mark>'
@@ -117,6 +123,25 @@ export default function Home() {
     const highlightedHtml = highlightText(chunkHtml, highlights);
     return <div>{parse(highlightedHtml)}</div>;
   };
+
+  const handleClickOutside = (event: MouseEvent) => {
+    if (
+      resultsContainerRef.current &&
+      !resultsContainerRef.current.contains(event.target as Node) &&
+      searchInputRef.current &&
+      !searchInputRef.current.contains(event.target as Node)
+    ) {
+      setSearchResults([]);
+    }
+  };
+
+  useEffect(() => {
+    document.addEventListener("mousedown", handleClickOutside);
+
+    return () => {
+      document.removeEventListener("mousedown", handleClickOutside);
+    };
+  }, []);
 
   return (
     <main className="relative flex min-h-screen flex-col items-center justify-start bg-gray-100 text-blue-800">
@@ -160,6 +185,7 @@ export default function Home() {
                   value={searchTerm}
                   onChange={(e) => setSearchTerm(e.target.value)}
                   onKeyDown={handleKeyDown}
+                  ref={searchInputRef}
                   className="p-4 border border-gray-600 text-black flex-grow"
                   placeholder="Search..."
                 />
