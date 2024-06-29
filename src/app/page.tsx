@@ -190,6 +190,7 @@ export default function Home() {
                         className={`border-gray-300 p-4 rounded-lg border cursor-pointer ${
                           index === highlightedIndex ? "bg-gray-200" : ""
                         }`}
+                        onMouseEnter={() => setHighlightedIndex(index)}
                         onClick={() =>
                           handleResultClick(result.metadata[0].link)
                         }
@@ -205,7 +206,7 @@ export default function Home() {
               )}
             </div>
           </div>
-          <div className="flex items-center text-white text-blue-800 ml-8">
+          <div className="flex items-center text-blue-800 ml-8">
             <a
               href="#"
               className="hover:underline px-4 border-r-2 border-gray-200 text-blue-800"
