@@ -1,23 +1,22 @@
 "use client";
 
-import { useState } from "react";
+import { useState, useEffect, useCallback } from "react";
 import parse from "html-react-parser";
 
 export default function Home() {
   const [searchTerm, setSearchTerm] = useState("");
   const [searchResults, setSearchResults] = useState([] as any[]);
+  const [debouncedSearchTerm, setDebouncedSearchTerm] = useState("");
 
-  const handleSearch = async (event: React.FormEvent<HTMLFormElement>) => {
-    event.preventDefault();
-
-    if (!searchTerm) {
+  const handleSearch = useCallback(async () => {
+    if (!debouncedSearchTerm) {
       setSearchResults([]);
       return;
     }
 
     try {
       const body = {
-        query: searchTerm,
+        query: debouncedSearchTerm,
         search_type: "semantic",
       };
 
@@ -36,7 +35,21 @@ export default function Home() {
     } catch (error) {
       console.error("Error fetching data:", error);
     }
-  };
+  }, [debouncedSearchTerm]);
+
+  useEffect(() => {
+    const handler = setTimeout(() => {
+      setDebouncedSearchTerm(searchTerm);
+    }, 300); // Adjust the delay as needed (300ms in this case)
+
+    return () => {
+      clearTimeout(handler);
+    };
+  }, [searchTerm]);
+
+  useEffect(() => {
+    handleSearch();
+  }, [debouncedSearchTerm, handleSearch]);
 
   const highlightText = (text: string, highlights: string[]) => {
     let highlightedText = text;
@@ -101,7 +114,7 @@ export default function Home() {
               className="w-56 h-auto"
             />
             <div className="relative flex-grow ml-4">
-              <form onSubmit={handleSearch} className="flex">
+              <form onSubmit={(e) => e.preventDefault()} className="flex">
                 <input
                   type="text"
                   value={searchTerm}
