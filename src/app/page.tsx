@@ -2,6 +2,7 @@
 
 import { useState, useEffect, useCallback, useRef } from "react";
 import parse from "html-react-parser";
+import Image from "next/image";
 
 export default function Home() {
   const [searchTerm, setSearchTerm] = useState("");
@@ -44,7 +45,7 @@ export default function Home() {
   useEffect(() => {
     const handler = setTimeout(() => {
       setDebouncedSearchTerm(searchTerm);
-    }, 300); // Adjust the delay as needed (300ms in this case)
+    }, 300);
 
     return () => {
       clearTimeout(handler);
@@ -150,10 +151,12 @@ export default function Home() {
         </div>
         <div className="flex justify-between items-center w-full p-8 mx-auto relative z-50">
           <div className="flex items-center grow relative">
-            <img
+            <Image
               src="https://www.costco.com/wcsstore/CostcoGLOBALSAS/images/Costco_Logo-1.png"
               alt="Costco Logo"
               className="w-56 h-auto"
+              width={224}
+              height={56}
             />
             <div className="relative flex-grow ml-4">
               <form onSubmit={(e) => e.preventDefault()} className="flex">
@@ -180,7 +183,9 @@ export default function Home() {
                   <ul className="flex flex-col gap-4 text-black">
                     {searchResults.map((result, index) => (
                       <li
-                        ref={(el) => (resultRefs.current[index] = el)}
+                        ref={(el) => {
+                          resultRefs.current[index] = el;
+                        }}
                         key={result.metadata[0].chunk_html}
                         className={`border-gray-300 p-4 rounded-lg border cursor-pointer ${
                           index === highlightedIndex ? "bg-gray-200" : ""
