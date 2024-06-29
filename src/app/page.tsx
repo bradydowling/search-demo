@@ -1,12 +1,15 @@
 "use client";
 
-import { useState, useEffect, useCallback } from "react";
+import { useState, useEffect, useCallback, useRef } from "react";
 import parse from "html-react-parser";
 
 export default function Home() {
   const [searchTerm, setSearchTerm] = useState("");
   const [searchResults, setSearchResults] = useState([] as any[]);
   const [debouncedSearchTerm, setDebouncedSearchTerm] = useState("");
+  const [highlightedIndex, setHighlightedIndex] = useState(-1);
+  const resultsContainerRef = useRef<HTMLDivElement>(null);
+  const resultRefs = useRef<(HTMLDivElement | null)[]>([]);
 
   const handleSearch = useCallback(async () => {
     if (!debouncedSearchTerm) {
@@ -32,6 +35,7 @@ export default function Home() {
       });
       const data = await response.json();
       setSearchResults(data.score_chunks);
+      setHighlightedIndex(-1); // Reset the highlighted index when new results are fetched
     } catch (error) {
       console.error("Error fetching data:", error);
     }
@@ -50,6 +54,39 @@ export default function Home() {
   useEffect(() => {
     handleSearch();
   }, [debouncedSearchTerm, handleSearch]);
+
+  const handleKeyDown = (e: React.KeyboardEvent<HTMLInputElement>) => {
+    if (e.key === "ArrowDown") {
+      setHighlightedIndex((prevIndex) => {
+        const newIndex =
+          prevIndex < searchResults.length - 1 ? prevIndex + 1 : 0;
+        if (resultRefs.current[newIndex]) {
+          resultRefs.current[newIndex]?.scrollIntoView({
+            behavior: "smooth",
+            block: "nearest",
+          });
+        }
+        return newIndex;
+      });
+    } else if (e.key === "ArrowUp") {
+      setHighlightedIndex((prevIndex) => {
+        const newIndex =
+          prevIndex > 0 ? prevIndex - 1 : searchResults.length - 1;
+        if (resultRefs.current[newIndex]) {
+          resultRefs.current[newIndex]?.scrollIntoView({
+            behavior: "smooth",
+            block: "nearest",
+          });
+        }
+        return newIndex;
+      });
+    } else if (e.key === "Enter" && highlightedIndex >= 0) {
+      // Handle the enter key to select the highlighted item
+      const selectedResult = searchResults[highlightedIndex];
+      console.log("Selected result:", selectedResult);
+      // You can add further logic to handle the selection (e.g., navigate to the result's page)
+    }
+  };
 
   const highlightText = (text: string, highlights: string[]) => {
     let highlightedText = text;
@@ -119,6 +156,7 @@ export default function Home() {
                   type="text"
                   value={searchTerm}
                   onChange={(e) => setSearchTerm(e.target.value)}
+                  onKeyDown={handleKeyDown}
                   className="p-4 border border-gray-600 text-black flex-grow"
                   placeholder="Search..."
                 />
@@ -130,12 +168,18 @@ export default function Home() {
                 </button>
               </form>
               {searchResults.length > 0 && (
-                <div className="absolute left-0 right-0 top-full z-40 bg-white shadow-lg mt-2 p-4 rounded-lg max-h-96 overflow-y-auto">
+                <div
+                  ref={resultsContainerRef}
+                  className="absolute left-0 right-0 top-full z-40 bg-white shadow-lg mt-2 p-4 rounded-lg max-h-96 overflow-y-auto"
+                >
                   <div className="flex flex-col gap-4 text-black">
-                    {searchResults.map((result) => (
+                    {searchResults.map((result, index) => (
                       <div
+                        ref={(el) => (resultRefs.current[index] = el)}
                         key={result.metadata[0].chunk_html}
-                        className="border-gray-300 p-4 rounded-lg border"
+                        className={`border-gray-300 p-4 rounded-lg border ${
+                          index === highlightedIndex ? "bg-gray-200" : ""
+                        }`}
                       >
                         <DisplayHighlightedHTML
                           chunkHtml={result.metadata[0].chunk_html}
