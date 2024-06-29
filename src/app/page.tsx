@@ -1,6 +1,7 @@
 "use client";
 
 import { useState, useEffect, useCallback, useRef } from "react";
+import axios from "axios";
 import parse from "html-react-parser";
 import Image from "next/image";
 
@@ -24,15 +25,12 @@ export default function Home() {
         search_type: "semantic",
       };
 
-      const response = await fetch(`/api/trieveSearch`, {
-        method: "POST",
+      const response = await axios.post("/api/trieveSearch", body, {
         headers: {
           "Content-Type": "application/json",
         },
-        body: JSON.stringify(body),
       });
-      const data = await response.json();
-      setSearchResults(data.score_chunks);
+      setSearchResults(response.data.score_chunks);
       setHighlightedIndex(-1); // Reset the highlighted index when new results are fetched
     } catch (error) {
       console.error("Error fetching data:", error);
@@ -52,6 +50,19 @@ export default function Home() {
   useEffect(() => {
     handleSearch();
   }, [debouncedSearchTerm, handleSearch]);
+
+  useEffect(() => {
+    const fetchTestData = async () => {
+      try {
+        const response = await axios.get("/api/test");
+        console.log("Test endpoint response:", response.data);
+      } catch (error) {
+        console.error("Error fetching test endpoint data:", error);
+      }
+    };
+
+    fetchTestData();
+  }, []);
 
   const handleKeyDown = (e: React.KeyboardEvent<HTMLInputElement>) => {
     if (e.key === "ArrowDown") {
